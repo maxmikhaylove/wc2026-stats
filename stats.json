@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-13T21:19:03.388961+00:00",
-  "updated_msk": "14 июн 00:19",
+  "updated_utc": "2026-06-13T22:09:03.390381+00:00",
+  "updated_msk": "14 июн 01:09",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -766,12 +766,100 @@
       "away": "Morocco",
       "kickoff_utc": "2026-06-13T22:00:00+00:00",
       "kickoff_msk": "14 июн 01:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
-      "score": null,
-      "status": "TIMED",
-      "bets": [],
+      "revealed": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "IN_PLAY",
+      "bets": [
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": -1005,
+          "name": "Marach",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 3,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 3,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": -1001,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        }
+      ],
       "bets_count": 12
     },
     {
@@ -850,7 +938,7 @@
       "finished": false,
       "revealed": false,
       "score": null,
-      "status": "SCHEDULED",
+      "status": "TIMED",
       "bets": [],
       "bets_count": 8
     },
