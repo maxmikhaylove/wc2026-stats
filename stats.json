@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-13T21:10:02.807569+00:00",
-  "updated_msk": "14 июн 00:10",
+  "updated_utc": "2026-06-13T21:19:03.388961+00:00",
+  "updated_msk": "14 июн 00:19",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -80,13 +80,15 @@
       "№1",
       "№2",
       "№3",
-      "№4"
+      "№4",
+      "№5"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
       "South Korea–Czechia 2:1",
       "Canada–Bosnia-Herzegovina 1:1",
-      "United States–Paraguay 4:1"
+      "United States–Paraguay 4:1",
+      "Qatar–Switzerland 1:1"
     ],
     "series": [
       {
@@ -96,6 +98,7 @@
           3,
           6,
           9,
+          10,
           10
         ],
         "total": 10
@@ -106,6 +109,7 @@
         "cumulative": [
           1,
           3,
+          6,
           6,
           6
         ],
@@ -118,6 +122,7 @@
           2,
           2,
           5,
+          6,
           6
         ],
         "total": 6
@@ -129,6 +134,7 @@
           1,
           1,
           4,
+          5,
           5
         ],
         "total": 5
@@ -140,6 +146,7 @@
           1,
           1,
           4,
+          5,
           5
         ],
         "total": 5
@@ -151,6 +158,7 @@
           3,
           3,
           3,
+          5,
           5
         ],
         "total": 5
@@ -162,6 +170,7 @@
           1,
           4,
           4,
+          5,
           5
         ],
         "total": 5
@@ -173,6 +182,7 @@
           3,
           3,
           4,
+          5,
           5
         ],
         "total": 5
@@ -184,6 +194,7 @@
           3,
           3,
           3,
+          4,
           4
         ],
         "total": 4
@@ -194,6 +205,7 @@
         "cumulative": [
           0,
           0,
+          3,
           3,
           3
         ],
@@ -206,6 +218,7 @@
           1,
           0,
           3,
+          2,
           2
         ],
         "total": 2
@@ -217,6 +230,7 @@
           0,
           -1,
           -1,
+          0,
           0
         ],
         "total": 0
@@ -649,97 +663,97 @@
       "kickoff_utc": "2026-06-13T19:00:00+00:00",
       "kickoff_msk": "13 июн 22:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 1,
         "away": 1
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": -1005,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 3,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 0,
           "pa": 5,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
           "pa": 3,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": -1001,
           "name": "Алексей",
           "ph": 0,
           "pa": 4,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 12
@@ -836,7 +850,7 @@
       "finished": false,
       "revealed": false,
       "score": null,
-      "status": "TIMED",
+      "status": "SCHEDULED",
       "bets": [],
       "bets_count": 8
     },
