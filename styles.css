@@ -1,0 +1,185 @@
+/* Тотализатор ЧМ-2026 — стиль macOS Tahoe «Liquid Glass» */
+:root {
+  --bg1: #eef2f9;
+  --bg2: #e6ecf7;
+  --text: #1c1c1e;
+  --text-dim: #6b7280;
+  --glass-bg: rgba(255, 255, 255, 0.55);
+  --glass-stroke: rgba(255, 255, 255, 0.7);
+  --glass-shadow: 0 10px 40px rgba(20, 30, 60, 0.14);
+  --row: rgba(255, 255, 255, 0.45);
+  --accent: #0a84ff;
+  --p3-bg: rgba(48, 209, 88, 0.95);   /* +3 */
+  --p2-bg: rgba(120, 220, 130, 0.85); /* +2 */
+  --p1-bg: rgba(190, 230, 195, 0.8);  /* +1 */
+  --p0-bg: rgba(142, 142, 147, 0.18); /*  0 */
+  --pn-bg: rgba(255, 105, 97, 0.85);  /* -1 */
+  --radius: 22px;
+  --font: -apple-system, BlinkMacSystemFont, "SF Pro Text", "SF Pro Display",
+          "Helvetica Neue", "Segoe UI", system-ui, sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg1: #0b1020;
+    --bg2: #131a2e;
+    --text: #f5f5f7;
+    --text-dim: #9aa3b2;
+    --glass-bg: rgba(40, 44, 58, 0.55);
+    --glass-stroke: rgba(255, 255, 255, 0.14);
+    --glass-shadow: 0 12px 44px rgba(0, 0, 0, 0.45);
+    --row: rgba(255, 255, 255, 0.06);
+    --p0-bg: rgba(120, 120, 130, 0.22);
+  }
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+html { scroll-behavior: smooth; }
+body {
+  font-family: var(--font);
+  color: var(--text);
+  background: var(--bg1);
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+  padding: env(safe-area-inset-top) 16px calc(40px + env(safe-area-inset-bottom));
+}
+
+/* Сетчатый цветной фон под стеклом */
+.bg-mesh {
+  position: fixed; inset: 0; z-index: -1;
+  background:
+    radial-gradient(40% 50% at 12% 8%, rgba(10, 132, 255, 0.40), transparent 60%),
+    radial-gradient(45% 55% at 92% 12%, rgba(191, 90, 242, 0.38), transparent 60%),
+    radial-gradient(50% 60% at 78% 92%, rgba(48, 209, 88, 0.30), transparent 60%),
+    radial-gradient(45% 55% at 8% 95%, rgba(255, 159, 10, 0.30), transparent 60%),
+    linear-gradient(160deg, var(--bg1), var(--bg2));
+  filter: saturate(120%);
+}
+
+.wrap { max-width: 760px; margin: 0 auto; }
+
+/* Стекло */
+.glass {
+  background: var(--glass-bg);
+  -webkit-backdrop-filter: blur(30px) saturate(180%);
+  backdrop-filter: blur(30px) saturate(180%);
+  border: 1px solid var(--glass-stroke);
+  box-shadow: var(--glass-shadow);
+  border-radius: var(--radius);
+}
+
+/* Шапка */
+.hero { text-align: center; padding: 30px 24px 24px; margin: 28px 0 18px; }
+.hero-trophy { font-size: 46px; line-height: 1; filter: drop-shadow(0 6px 14px rgba(0,0,0,.18)); }
+.hero h1 { font-size: 30px; font-weight: 800; letter-spacing: -0.5px; margin-top: 8px; }
+.subtitle { color: var(--text-dim); margin-top: 4px; font-size: 15px; }
+.updated {
+  display: inline-block; margin-top: 14px; padding: 5px 14px; font-size: 13px;
+  color: var(--text-dim); background: var(--row); border-radius: 999px;
+}
+
+/* Сегментированный переключатель */
+.segmented {
+  display: flex; gap: 4px; padding: 5px; margin: 0 auto 18px; max-width: 420px;
+  border-radius: 16px;
+}
+.seg-btn {
+  flex: 1; border: 0; background: transparent; color: var(--text);
+  font-family: inherit; font-size: 15px; font-weight: 600; padding: 9px 10px;
+  border-radius: 12px; cursor: pointer; transition: all .25s ease;
+}
+.seg-btn.active {
+  background: rgba(255,255,255,0.85); color: #1c1c1e;
+  box-shadow: 0 2px 8px rgba(0,0,0,.12);
+}
+@media (prefers-color-scheme: dark) { .seg-btn.active { background: rgba(120,130,150,0.5); color: #fff; } }
+
+/* Вкладки */
+.tab { display: none; animation: fade .35s ease; }
+.tab.active { display: block; }
+@keyframes fade { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+
+/* Лидерборд */
+.board { padding: 8px; border-radius: var(--radius); }
+.lrow {
+  display: flex; align-items: center; gap: 12px; padding: 13px 14px;
+  border-radius: 14px; margin: 4px; background: var(--row);
+}
+.lrow .rank { width: 30px; text-align: center; font-size: 18px; font-weight: 700; }
+.lrow .who { flex: 1; font-weight: 600; font-size: 16px; }
+.lrow .pts { font-weight: 800; font-size: 18px; font-variant-numeric: tabular-nums; }
+.lrow.me { outline: 2px solid var(--accent); }
+.lrow.top1 { background: linear-gradient(90deg, rgba(255,215,0,.28), var(--row)); }
+.lrow.top2 { background: linear-gradient(90deg, rgba(190,200,210,.30), var(--row)); }
+.lrow.top3 { background: linear-gradient(90deg, rgba(205,140,90,.26), var(--row)); }
+
+/* Карточки матчей */
+.group-title { font-size: 16px; font-weight: 700; color: var(--text-dim); margin: 18px 6px 10px; }
+.match { padding: 16px 18px; margin-bottom: 14px; }
+.match-top { display: flex; align-items: center; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+.chip {
+  font-size: 12px; font-weight: 700; padding: 3px 10px; border-radius: 999px;
+  background: var(--row); color: var(--text-dim);
+}
+.chip.live { background: rgba(255,69,58,.9); color: #fff; }
+.chip.done { background: rgba(48,209,88,.85); color: #08310f; }
+.chip.soon { background: rgba(10,132,255,.85); color: #fff; }
+.match-time { margin-left: auto; font-size: 13px; color: var(--text-dim); }
+.teams { display: grid; grid-template-columns: 1fr auto 1fr; align-items: center; gap: 10px; }
+.team { font-weight: 700; font-size: 17px; }
+.team.home { text-align: right; }
+.team.away { text-align: left; }
+.score {
+  font-size: 24px; font-weight: 800; font-variant-numeric: tabular-nums;
+  padding: 2px 14px; border-radius: 12px; background: var(--row); min-width: 64px; text-align: center;
+}
+.score.empty { color: var(--text-dim); font-size: 18px; }
+
+/* Ставки внутри карточки */
+.bets { margin-top: 14px; border-top: 1px solid var(--glass-stroke); padding-top: 10px; }
+.bets-hidden { margin-top: 12px; color: var(--text-dim); font-size: 14px; text-align: center; padding: 8px; }
+.bet {
+  display: grid; grid-template-columns: 1fr auto auto; align-items: center; gap: 10px;
+  padding: 7px 6px; font-size: 15px;
+}
+.bet + .bet { border-top: 1px dashed var(--glass-stroke); }
+.bet .bname { font-weight: 600; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.bet .bpred { font-variant-numeric: tabular-nums; color: var(--text-dim); font-weight: 600; }
+.pts-chip {
+  min-width: 34px; text-align: center; font-weight: 800; font-size: 14px;
+  padding: 3px 8px; border-radius: 9px; font-variant-numeric: tabular-nums;
+}
+.p3 { background: var(--p3-bg); color: #06320f; }
+.p2 { background: var(--p2-bg); color: #093b14; }
+.p1 { background: var(--p1-bg); color: #1c3b22; }
+.p0 { background: var(--p0-bg); color: var(--text-dim); }
+.pn { background: var(--pn-bg); color: #4a0b06; }
+
+/* График */
+.chart-card { padding: 20px 18px 16px; }
+.chart-title { font-size: 18px; font-weight: 700; text-align: center; margin-bottom: 14px; }
+.chart-wrap { position: relative; height: 60vh; min-height: 360px; }
+.chart-wrap canvas { width: 100% !important; }
+
+/* Правила */
+.rules { padding: 22px 24px; }
+.rules h2 { font-size: 20px; margin-bottom: 12px; }
+.rules p { color: var(--text-dim); line-height: 1.55; margin-bottom: 14px; }
+.score-table { display: grid; gap: 8px; }
+.score-table .sr { display: flex; align-items: center; gap: 12px; padding: 10px 12px; background: var(--row); border-radius: 12px; }
+.score-table .sr .b { width: 46px; text-align: center; font-weight: 800; border-radius: 8px; padding: 4px 0; }
+.score-table .sr .d { flex: 1; font-size: 15px; }
+
+.empty-state { text-align: center; color: var(--text-dim); padding: 40px 20px; }
+
+.foot {
+  text-align: center; color: var(--text-dim); font-size: 13px;
+  margin-top: 22px; line-height: 1.7;
+}
+.foot a { color: var(--accent); text-decoration: none; }
+.foot .dot { margin: 0 6px; }
+
+@media (max-width: 480px) {
+  .hero h1 { font-size: 25px; }
+  .team { font-size: 15px; }
+  .bet { grid-template-columns: 1fr auto auto; font-size: 14px; }
+}

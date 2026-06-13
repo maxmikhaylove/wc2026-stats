@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <title>Тотализатор ЧМ-2026</title>
+  <meta name="description" content="Статистика тотализатора FIFA World Cup 2026" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <div class="bg-mesh" aria-hidden="true"></div>
+
+  <main class="wrap">
+    <header class="hero glass">
+      <div class="hero-trophy">🏆</div>
+      <h1>Тотализатор ЧМ-2026</h1>
+      <p class="subtitle">FIFA World Cup 2026 · прогнозы и очки</p>
+      <div class="updated" id="updated">Загрузка…</div>
+    </header>
+
+    <nav class="segmented glass" role="tablist">
+      <button class="seg-btn active" data-tab="table" role="tab">Таблица</button>
+      <button class="seg-btn" data-tab="graph" role="tab">График</button>
+      <button class="seg-btn" data-tab="matches" role="tab">Матчи</button>
+      <button class="seg-btn" data-tab="rules" role="tab">Правила</button>
+    </nav>
+
+    <section id="tab-table" class="tab active"></section>
+    <section id="tab-graph" class="tab">
+      <div class="glass chart-card">
+        <h2 class="chart-title">Динамика очков по матчам</h2>
+        <div class="chart-wrap"><canvas id="progressChart"></canvas></div>
+        <div id="chart-empty" class="empty-state" hidden>График появится после первых сыгранных матчей.</div>
+      </div>
+    </section>
+    <section id="tab-matches" class="tab"></section>
+    <section id="tab-rules" class="tab"></section>
+
+    <footer class="foot">
+      <span>Источник результатов: <a id="src" href="#" target="_blank" rel="noopener">API-Football</a></span>
+      <span class="dot">·</span>
+      <span>Ставки соперников раскрываются после начала матча</span>
+    </footer>
+  </main>
+
+  <script src="vendor/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
