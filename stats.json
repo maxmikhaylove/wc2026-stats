@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-13T20:56:53.739887+00:00",
-  "updated_msk": "13 июн 23:56",
+  "updated_utc": "2026-06-13T21:06:53.745121+00:00",
+  "updated_msk": "14 июн 00:06",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -33,7 +33,7 @@
       "rank": 4
     },
     {
-      "telegram_id": -1010,
+      "telegram_id": 142503209,
       "name": "Наиль Гайнуллов",
       "total": 5,
       "rank": 4
@@ -45,7 +45,7 @@
       "rank": 4
     },
     {
-      "telegram_id": -1006,
+      "telegram_id": 213115416,
       "name": "Фил Чирков",
       "total": 5,
       "rank": 4
@@ -277,7 +277,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1010,
+          "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 0,
@@ -291,7 +291,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1006,
+          "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
@@ -381,7 +381,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1010,
+          "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 1,
           "pa": 1,
@@ -395,7 +395,7 @@
           "points": 3
         },
         {
-          "telegram_id": -1006,
+          "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
@@ -485,7 +485,7 @@
           "points": 3
         },
         {
-          "telegram_id": -1010,
+          "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 1,
@@ -499,7 +499,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1006,
+          "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
@@ -589,7 +589,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1010,
+          "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 3,
           "pa": 0,
@@ -603,7 +603,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1006,
+          "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
@@ -652,7 +652,7 @@
       "finished": false,
       "revealed": true,
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 1
       },
       "status": "IN_PLAY",
@@ -693,7 +693,7 @@
           "points": null
         },
         {
-          "telegram_id": -1010,
+          "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 1,
@@ -707,7 +707,7 @@
           "points": null
         },
         {
-          "telegram_id": -1006,
+          "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
@@ -806,7 +806,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 11
+      "bets_count": 12
     },
     {
       "match_no": 10,
@@ -2335,9 +2335,9 @@
     "384182411": 6,
     "1382936284": 5,
     "329891536": 5,
-    "-1010": 5,
+    "142503209": 5,
     "115820189": 5,
-    "-1006": 5,
+    "213115416": 5,
     "195828871": 4,
     "101254951": 3,
     "159916305": 2,
