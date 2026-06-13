@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-13T19:25:55.277799+00:00",
-  "updated_msk": "13 июн 22:25",
+  "updated_utc": "2026-06-13T19:34:55.689620+00:00",
+  "updated_msk": "13 июн 22:34",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -39,7 +39,7 @@
       "rank": 4
     },
     {
-      "telegram_id": -1007,
+      "telegram_id": 115820189,
       "name": "Саша Березин",
       "total": 5,
       "rank": 4
@@ -284,7 +284,7 @@
           "points": 3
         },
         {
-          "telegram_id": -1007,
+          "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 3,
           "pa": 0,
@@ -388,7 +388,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1007,
+          "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
           "pa": 1,
@@ -492,7 +492,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1007,
+          "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
           "pa": 0,
@@ -596,7 +596,7 @@
           "points": 2
         },
         {
-          "telegram_id": -1007,
+          "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
           "pa": 1,
@@ -653,7 +653,7 @@
       "revealed": true,
       "score": {
         "home": 0,
-        "away": 0
+        "away": 1
       },
       "status": "IN_PLAY",
       "bets": [
@@ -700,7 +700,7 @@
           "points": null
         },
         {
-          "telegram_id": -1007,
+          "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
           "pa": 3,
@@ -758,7 +758,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 11
+      "bets_count": 12
     },
     {
       "match_no": 7,
@@ -774,7 +774,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 11
+      "bets_count": 12
     },
     {
       "match_no": 8,
@@ -790,7 +790,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 11
+      "bets_count": 12
     },
     {
       "match_no": 9,
@@ -806,7 +806,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 10
+      "bets_count": 11
     },
     {
       "match_no": 10,
@@ -822,7 +822,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 10
+      "bets_count": 11
     },
     {
       "match_no": 11,
@@ -838,7 +838,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 7
+      "bets_count": 8
     },
     {
       "match_no": 12,
@@ -2336,7 +2336,7 @@
     "1382936284": 5,
     "329891536": 5,
     "-1010": 5,
-    "-1007": 5,
+    "115820189": 5,
     "-1006": 5,
     "-1002": 4,
     "101254951": 3,
