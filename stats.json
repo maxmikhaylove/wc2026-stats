@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-14T03:10:02.805596+00:00",
-  "updated_msk": "14 июн 06:10",
+  "updated_utc": "2026-06-14T03:19:03.370983+00:00",
+  "updated_msk": "14 июн 06:19",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -11,67 +11,67 @@
     {
       "telegram_id": -1005,
       "name": "Marach",
-      "total": 6,
+      "total": 7,
       "rank": 2
     },
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 6,
+      "total": 7,
       "rank": 2
     },
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 5,
+      "total": 6,
+      "rank": 4
+    },
+    {
+      "telegram_id": 101254951,
+      "name": "Dmitriy S",
+      "total": 6,
       "rank": 4
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 5,
+      "total": 6,
       "rank": 4
     },
     {
       "telegram_id": 142503209,
       "name": "Наиль Гайнуллов",
-      "total": 5,
+      "total": 6,
       "rank": 4
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 5,
+      "total": 6,
       "rank": 4
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 5,
+      "total": 6,
       "rank": 4
     },
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 4,
-      "rank": 9
-    },
-    {
-      "telegram_id": 101254951,
-      "name": "Dmitriy S",
-      "total": 3,
+      "total": 5,
       "rank": 10
     },
     {
       "telegram_id": -1001,
       "name": "Алексей",
-      "total": 3,
-      "rank": 10
+      "total": 4,
+      "rank": 11
     },
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 2,
+      "total": 3,
       "rank": 12
     }
   ],
@@ -82,7 +82,8 @@
       "№3",
       "№4",
       "№5",
-      "№6"
+      "№6",
+      "№7"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -90,7 +91,8 @@
       "Canada–Bosnia-Herzegovina 1:1",
       "United States–Paraguay 4:1",
       "Qatar–Switzerland 1:1",
-      "Brazil–Morocco 1:1"
+      "Brazil–Morocco 1:1",
+      "Haiti–Scotland 0:1"
     ],
     "series": [
       {
@@ -100,6 +102,7 @@
           3,
           6,
           9,
+          10,
           10,
           10,
           10
@@ -115,9 +118,10 @@
           6,
           6,
           6,
-          6
+          6,
+          7
         ],
-        "total": 6
+        "total": 7
       },
       {
         "name": "Николай Толли",
@@ -128,9 +132,10 @@
           5,
           6,
           6,
-          6
+          6,
+          7
         ],
-        "total": 6
+        "total": 7
       },
       {
         "name": "Artur A",
@@ -141,87 +146,94 @@
           4,
           5,
           5,
-          5
+          5,
+          6
         ],
-        "total": 5
+        "total": 6
+      },
+      {
+        "name": "Dmitriy S",
+        "color": "#AF52DE",
+        "cumulative": [
+          0,
+          0,
+          3,
+          3,
+          3,
+          3,
+          6
+        ],
+        "total": 6
       },
       {
         "name": "Max Mikhaylov",
-        "color": "#AF52DE",
+        "color": "#00C7BE",
         "cumulative": [
           1,
           1,
           4,
           5,
           5,
-          5
+          5,
+          6
         ],
-        "total": 5
+        "total": 6
       },
       {
         "name": "Наиль Гайнуллов",
-        "color": "#00C7BE",
+        "color": "#FF2D55",
         "cumulative": [
           3,
           3,
           3,
           5,
           5,
-          5
+          5,
+          6
         ],
-        "total": 5
+        "total": 6
       },
       {
         "name": "Саша Березин",
-        "color": "#FF2D55",
+        "color": "#5856D6",
         "cumulative": [
           1,
           4,
           4,
           5,
           5,
-          5
+          5,
+          6
         ],
-        "total": 5
+        "total": 6
       },
       {
         "name": "Фил Чирков",
-        "color": "#5856D6",
-        "cumulative": [
-          3,
-          3,
-          4,
-          5,
-          5,
-          5
-        ],
-        "total": 5
-      },
-      {
-        "name": "Паша Федоров",
         "color": "#FFCC00",
         "cumulative": [
           3,
           3,
-          3,
           4,
-          4,
-          4
+          5,
+          5,
+          5,
+          6
         ],
-        "total": 4
+        "total": 6
       },
       {
-        "name": "Dmitriy S",
+        "name": "Паша Федоров",
         "color": "#30B0C7",
         "cumulative": [
-          0,
-          0,
           3,
           3,
           3,
-          3
+          4,
+          4,
+          4,
+          5
         ],
-        "total": 3
+        "total": 5
       },
       {
         "name": "Алексей",
@@ -232,9 +244,10 @@
           -1,
           0,
           0,
-          3
+          3,
+          4
         ],
-        "total": 3
+        "total": 4
       },
       {
         "name": "Антон Борисенко",
@@ -245,9 +258,10 @@
           3,
           2,
           2,
-          2
+          2,
+          3
         ],
-        "total": 2
+        "total": 3
       }
     ]
   },
@@ -298,6 +312,13 @@
           "points": 1
         },
         {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
+        },
+        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -331,13 +352,6 @@
           "ph": 2,
           "pa": 0,
           "points": 3
-        },
-        {
-          "telegram_id": 101254951,
-          "name": "Dmitriy S",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
         },
         {
           "telegram_id": -1001,
@@ -402,6 +416,13 @@
           "points": 0
         },
         {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
+        },
+        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -432,13 +453,6 @@
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
-          "telegram_id": 101254951,
-          "name": "Dmitriy S",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -506,6 +520,13 @@
           "points": 3
         },
         {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
+        },
+        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -539,13 +560,6 @@
           "ph": 0,
           "pa": 2,
           "points": 0
-        },
-        {
-          "telegram_id": 101254951,
-          "name": "Dmitriy S",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
         },
         {
           "telegram_id": -1001,
@@ -610,6 +624,13 @@
           "points": 1
         },
         {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
+        },
+        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -643,13 +664,6 @@
           "ph": 2,
           "pa": 0,
           "points": 1
-        },
-        {
-          "telegram_id": 101254951,
-          "name": "Dmitriy S",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
         },
         {
           "telegram_id": -1001,
@@ -714,6 +728,13 @@
           "points": 0
         },
         {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 0,
+          "pa": 2,
+          "points": 0
+        },
+        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -744,13 +765,6 @@
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
-          "ph": 0,
-          "pa": 2,
-          "points": 0
-        },
-        {
-          "telegram_id": 101254951,
-          "name": "Dmitriy S",
           "ph": 0,
           "pa": 2,
           "points": 0
@@ -818,6 +832,13 @@
           "points": 0
         },
         {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 2,
+          "pa": 1,
+          "points": 0
+        },
+        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -853,13 +874,6 @@
           "points": 0
         },
         {
-          "telegram_id": 101254951,
-          "name": "Dmitriy S",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": -1001,
           "name": "Алексей",
           "ph": 1,
@@ -885,97 +899,97 @@
       "kickoff_utc": "2026-06-14T01:00:00+00:00",
       "kickoff_msk": "14 июн 04:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 0,
         "away": 1
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": -1005,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 0,
           "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 142503209,
-          "name": "Наиль Гайнуллов",
-          "ph": 1,
-          "pa": 3,
-          "points": null
-        },
-        {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 0,
-          "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 0,
-          "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 0,
-          "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": -1001,
           "name": "Алексей",
           "ph": 0,
           "pa": 4,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         }
       ],
       "bets_count": 12
@@ -2535,17 +2549,17 @@
   ],
   "totals": {
     "226981762": 10,
-    "-1005": 6,
-    "384182411": 6,
-    "1382936284": 5,
-    "329891536": 5,
-    "142503209": 5,
-    "115820189": 5,
-    "213115416": 5,
-    "195828871": 4,
-    "101254951": 3,
-    "-1001": 3,
-    "159916305": 2
+    "-1005": 7,
+    "384182411": 7,
+    "1382936284": 6,
+    "101254951": 6,
+    "329891536": 6,
+    "142503209": 6,
+    "115820189": 6,
+    "213115416": 6,
+    "195828871": 5,
+    "-1001": 4,
+    "159916305": 3
   },
   "source": {
     "name": "API-Football",
