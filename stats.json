@@ -1,77 +1,77 @@
 {
-  "updated_utc": "2026-06-14T05:59:03.328942+00:00",
-  "updated_msk": "14 июн 08:59",
+  "updated_utc": "2026-06-14T06:10:02.802173+00:00",
+  "updated_msk": "14 июн 09:10",
   "participants": [
     {
       "telegram_id": 226981762,
       "name": "Оля Кепински",
-      "total": 10,
+      "total": 9,
       "rank": 1
     },
     {
       "telegram_id": -1005,
       "name": "Marach",
-      "total": 7,
+      "total": 6,
       "rank": 2
     },
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 7,
+      "total": 6,
       "rank": 2
     },
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 6,
+      "total": 5,
       "rank": 4
     },
     {
       "telegram_id": 101254951,
       "name": "Dmitriy S",
-      "total": 6,
+      "total": 5,
       "rank": 4
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 6,
+      "total": 5,
       "rank": 4
     },
     {
       "telegram_id": 142503209,
       "name": "Наиль Гайнуллов",
-      "total": 6,
+      "total": 5,
       "rank": 4
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 6,
+      "total": 5,
       "rank": 4
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 6,
+      "total": 5,
       "rank": 4
     },
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 5,
+      "total": 4,
       "rank": 10
     },
     {
       "telegram_id": -1001,
       "name": "Алексей",
-      "total": 4,
+      "total": 3,
       "rank": 11
     },
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 3,
+      "total": 2,
       "rank": 12
     }
   ],
@@ -83,7 +83,8 @@
       "№4",
       "№5",
       "№6",
-      "№7"
+      "№7",
+      "№8"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -92,7 +93,8 @@
       "United States–Paraguay 4:1",
       "Qatar–Switzerland 1:1",
       "Brazil–Morocco 1:1",
-      "Haiti–Scotland 0:1"
+      "Haiti–Scotland 0:1",
+      "Australia–Turkey 2:0"
     ],
     "series": [
       {
@@ -105,9 +107,10 @@
           10,
           10,
           10,
-          10
+          10,
+          9
         ],
-        "total": 10
+        "total": 9
       },
       {
         "name": "Marach",
@@ -119,9 +122,10 @@
           6,
           6,
           6,
-          7
+          7,
+          6
         ],
-        "total": 7
+        "total": 6
       },
       {
         "name": "Николай Толли",
@@ -133,9 +137,10 @@
           6,
           6,
           6,
-          7
+          7,
+          6
         ],
-        "total": 7
+        "total": 6
       },
       {
         "name": "Artur A",
@@ -147,9 +152,10 @@
           5,
           5,
           5,
-          6
+          6,
+          5
         ],
-        "total": 6
+        "total": 5
       },
       {
         "name": "Dmitriy S",
@@ -161,9 +167,10 @@
           3,
           3,
           3,
-          6
+          6,
+          5
         ],
-        "total": 6
+        "total": 5
       },
       {
         "name": "Max Mikhaylov",
@@ -175,9 +182,10 @@
           5,
           5,
           5,
-          6
+          6,
+          5
         ],
-        "total": 6
+        "total": 5
       },
       {
         "name": "Наиль Гайнуллов",
@@ -189,9 +197,10 @@
           5,
           5,
           5,
-          6
+          6,
+          5
         ],
-        "total": 6
+        "total": 5
       },
       {
         "name": "Саша Березин",
@@ -203,9 +212,10 @@
           5,
           5,
           5,
-          6
+          6,
+          5
         ],
-        "total": 6
+        "total": 5
       },
       {
         "name": "Фил Чирков",
@@ -217,9 +227,10 @@
           5,
           5,
           5,
-          6
+          6,
+          5
         ],
-        "total": 6
+        "total": 5
       },
       {
         "name": "Паша Федоров",
@@ -231,9 +242,10 @@
           4,
           4,
           4,
-          5
+          5,
+          4
         ],
-        "total": 5
+        "total": 4
       },
       {
         "name": "Алексей",
@@ -245,9 +257,10 @@
           0,
           0,
           3,
-          4
+          4,
+          3
         ],
-        "total": 4
+        "total": 3
       },
       {
         "name": "Антон Борисенко",
@@ -259,9 +272,10 @@
           2,
           2,
           2,
-          3
+          3,
+          2
         ],
-        "total": 3
+        "total": 2
       }
     ]
   },
@@ -1003,97 +1017,97 @@
       "kickoff_utc": "2026-06-14T04:00:00+00:00",
       "kickoff_msk": "14 июн 07:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 2,
         "away": 0
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 1,
           "pa": 3,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": -1005,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 3,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": -1001,
           "name": "Алексей",
           "ph": 0,
           "pa": 3,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": -1
         }
       ],
       "bets_count": 12
@@ -2636,18 +2650,18 @@
     }
   ],
   "totals": {
-    "226981762": 10,
-    "-1005": 7,
-    "384182411": 7,
-    "1382936284": 6,
-    "101254951": 6,
-    "329891536": 6,
-    "142503209": 6,
-    "115820189": 6,
-    "213115416": 6,
-    "195828871": 5,
-    "-1001": 4,
-    "159916305": 3
+    "226981762": 9,
+    "-1005": 6,
+    "384182411": 6,
+    "1382936284": 5,
+    "101254951": 5,
+    "329891536": 5,
+    "142503209": 5,
+    "115820189": 5,
+    "213115416": 5,
+    "195828871": 4,
+    "-1001": 3,
+    "159916305": 2
   },
   "source": {
     "name": "API-Football",
