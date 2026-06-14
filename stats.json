@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-14T08:10:02.807258+00:00",
-  "updated_msk": "14 июн 11:10",
+  "updated_utc": "2026-06-14T09:10:02.802558+00:00",
+  "updated_msk": "14 июн 12:10",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -63,7 +63,7 @@
       "rank": 10
     },
     {
-      "telegram_id": -1001,
+      "telegram_id": 285818716,
       "name": "Алексей",
       "total": 3,
       "rank": 11
@@ -368,7 +368,7 @@
           "points": 3
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 0,
           "pa": 0,
@@ -472,7 +472,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 1,
           "pa": 2,
@@ -576,7 +576,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 2,
           "pa": 0,
@@ -680,7 +680,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 2,
           "pa": 1,
@@ -784,7 +784,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 0,
           "pa": 4,
@@ -888,7 +888,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 1,
           "pa": 1,
@@ -992,7 +992,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 0,
           "pa": 4,
@@ -1096,7 +1096,7 @@
           "points": -1
         },
         {
-          "telegram_id": -1001,
+          "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 0,
           "pa": 3,
@@ -1190,7 +1190,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 6
+      "bets_count": 7
     },
     {
       "match_no": 14,
@@ -1206,7 +1206,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 5
+      "bets_count": 6
     },
     {
       "match_no": 15,
@@ -1222,7 +1222,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 5
+      "bets_count": 6
     },
     {
       "match_no": 16,
@@ -1238,7 +1238,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 5
+      "bets_count": 6
     },
     {
       "match_no": 17,
@@ -2660,7 +2660,7 @@
     "115820189": 5,
     "213115416": 5,
     "195828871": 4,
-    "-1001": 3,
+    "285818716": 3,
     "159916305": 2
   },
   "source": {
