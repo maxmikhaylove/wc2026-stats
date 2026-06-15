@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-15T09:10:02.807359+00:00",
-  "updated_msk": "15 июн 12:10",
+  "updated_utc": "2026-06-15T10:10:02.806415+00:00",
+  "updated_msk": "15 июн 13:10",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -27,7 +27,7 @@
       "rank": 4
     },
     {
-      "telegram_id": -1005,
+      "telegram_id": 362589424,
       "name": "Marach",
       "total": 7,
       "rank": 4
@@ -368,7 +368,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
           "pa": 0,
@@ -472,7 +472,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 1,
           "pa": 0,
@@ -576,7 +576,7 @@
           "points": 3
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 1,
           "pa": 1,
@@ -680,7 +680,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 0,
@@ -784,7 +784,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
@@ -888,7 +888,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 2,
           "pa": 1,
@@ -992,7 +992,7 @@
           "points": 3
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
@@ -1096,7 +1096,7 @@
           "points": -1
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
@@ -1200,7 +1200,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
           "pa": 0,
@@ -1304,7 +1304,7 @@
           "points": 0
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 2,
           "pa": 0,
@@ -1408,7 +1408,7 @@
           "points": null
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 0,
@@ -1512,7 +1512,7 @@
           "points": 1
         },
         {
-          "telegram_id": -1005,
+          "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 0,
@@ -1632,7 +1632,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 8
+      "bets_count": 9
     },
     {
       "match_no": 17,
@@ -3048,7 +3048,7 @@
     "1382936284": 9,
     "384182411": 8,
     "101254951": 7,
-    "-1005": 7,
+    "362589424": 7,
     "329891536": 7,
     "142503209": 7,
     "213115416": 7,
