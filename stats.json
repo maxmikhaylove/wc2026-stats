@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-16T00:04:13.642404+00:00",
-  "updated_msk": "16 июн 03:04",
+  "updated_utc": "2026-06-16T00:14:13.631484+00:00",
+  "updated_msk": "16 июн 03:14",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -15,16 +15,16 @@
       "rank": 2
     },
     {
+      "telegram_id": 195828871,
+      "name": "Паша Федоров",
+      "total": 10,
+      "rank": 2
+    },
+    {
       "telegram_id": 1382936284,
       "name": "Artur A",
       "total": 9,
-      "rank": 3
-    },
-    {
-      "telegram_id": 195828871,
-      "name": "Паша Федоров",
-      "total": 9,
-      "rank": 3
+      "rank": 4
     },
     {
       "telegram_id": 159916305,
@@ -90,7 +90,8 @@
       "№11",
       "№12",
       "№13",
-      "№14"
+      "№14",
+      "№15"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -106,7 +107,8 @@
       "Ivory Coast–Ecuador 1:0",
       "Sweden–Tunisia 5:1",
       "Spain–Cape Verde Islands 0:0",
-      "Belgium–Egypt 1:1"
+      "Belgium–Egypt 1:1",
+      "Saudi Arabia–Uruguay 1:1"
     ],
     "series": [
       {
@@ -124,6 +126,7 @@
           10,
           13,
           16,
+          17,
           17,
           17,
           17
@@ -147,13 +150,36 @@
           9,
           10,
           10,
+          10,
+          10
+        ],
+        "total": 10
+      },
+      {
+        "name": "Паша Федоров",
+        "color": "#34C759",
+        "cumulative": [
+          3,
+          3,
+          3,
+          4,
+          4,
+          4,
+          5,
+          4,
+          5,
+          5,
+          5,
+          6,
+          6,
+          9,
           10
         ],
         "total": 10
       },
       {
         "name": "Artur A",
-        "color": "#34C759",
+        "color": "#FF9500",
         "cumulative": [
           1,
           1,
@@ -168,27 +194,7 @@
           8,
           9,
           9,
-          9
-        ],
-        "total": 9
-      },
-      {
-        "name": "Паша Федоров",
-        "color": "#FF9500",
-        "cumulative": [
-          3,
-          3,
-          3,
-          4,
-          4,
-          4,
-          5,
-          4,
-          5,
-          5,
-          5,
-          6,
-          6,
+          9,
           9
         ],
         "total": 9
@@ -210,6 +216,7 @@
           5,
           5,
           5,
+          8,
           8
         ],
         "total": 8
@@ -231,6 +238,7 @@
           6,
           7,
           7,
+          7,
           7
         ],
         "total": 7
@@ -247,6 +255,7 @@
           6,
           7,
           6,
+          7,
           7,
           7,
           7,
@@ -273,6 +282,7 @@
           6,
           7,
           7,
+          7,
           7
         ],
         "total": 7
@@ -292,6 +302,7 @@
           6,
           6,
           5,
+          6,
           6,
           6,
           6
@@ -315,6 +326,7 @@
           5,
           6,
           6,
+          6,
           6
         ],
         "total": 6
@@ -331,6 +343,7 @@
           5,
           6,
           5,
+          6,
           6,
           6,
           6,
@@ -355,6 +368,7 @@
           4,
           4,
           4,
+          5,
           5,
           5,
           5
@@ -396,18 +410,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 159916305,
@@ -500,15 +514,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -604,18 +618,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 159916305,
@@ -708,17 +722,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -812,17 +826,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 5,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 5,
           "points": 0
         },
         {
@@ -916,15 +930,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -1020,15 +1034,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -1124,17 +1138,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": -1
         },
         {
@@ -1228,18 +1242,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 6,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 5,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 6,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 159916305,
@@ -1332,18 +1346,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 159916305,
@@ -1436,17 +1450,17 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
           "points": 0
         },
         {
@@ -1540,17 +1554,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -1644,16 +1658,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 4,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
@@ -1748,18 +1762,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 159916305,
@@ -1822,97 +1836,97 @@
       "kickoff_utc": "2026-06-15T22:00:00+00:00",
       "kickoff_msk": "16 июн 01:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 1,
         "away": 1
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 0,
           "pa": 3,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 0,
-          "points": null
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 12
@@ -3345,8 +3359,8 @@
   "totals": {
     "226981762": 17,
     "384182411": 10,
+    "195828871": 10,
     "1382936284": 9,
-    "195828871": 9,
     "159916305": 8,
     "101254951": 7,
     "362589424": 7,
