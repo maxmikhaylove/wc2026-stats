@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-18T22:14:13.834955+00:00",
-  "updated_msk": "19 июн 01:14",
+  "updated_utc": "2026-06-18T22:24:13.845110+00:00",
+  "updated_msk": "19 июн 01:24",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -3234,7 +3234,7 @@
       "finished": false,
       "revealed": true,
       "score": {
-        "home": 0,
+        "home": 1,
         "away": 0
       },
       "status": "IN_PLAY",
