@@ -1,71 +1,71 @@
 {
-  "updated_utc": "2026-06-18T20:55:13.173642+00:00",
-  "updated_msk": "18 июн 23:55",
+  "updated_utc": "2026-06-18T21:04:13.776663+00:00",
+  "updated_msk": "19 июн 00:04",
   "participants": [
     {
       "telegram_id": 226981762,
       "name": "Оля Кепински",
-      "total": 26,
+      "total": 27,
       "rank": 1
     },
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 21,
+      "total": 22,
       "rank": 2
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 20,
+      "total": 21,
       "rank": 3
     },
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 19,
+      "total": 20,
       "rank": 4
     },
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 18,
+      "total": 19,
       "rank": 5
     },
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 17,
+      "total": 18,
       "rank": 6
     },
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 16,
+      "total": 17,
       "rank": 7
     },
     {
       "telegram_id": 285818716,
       "name": "Алексей",
-      "total": 16,
+      "total": 17,
       "rank": 7
     },
     {
       "telegram_id": 101254951,
       "name": "Dmitriy S",
-      "total": 13,
+      "total": 14,
       "rank": 9
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
       "total": 13,
-      "rank": 9
+      "rank": 10
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 12,
+      "total": 11,
       "rank": 11
     },
     {
@@ -101,7 +101,8 @@
       "№22",
       "№23",
       "№24",
-      "№25"
+      "№25",
+      "№26"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -128,7 +129,8 @@
       "England–Croatia 4:2",
       "Ghana–Panama 1:0",
       "Uzbekistan–Colombia 1:3",
-      "Czechia–South Africa 1:1"
+      "Czechia–South Africa 1:1",
+      "Switzerland–Bosnia-Herzegovina 4:1"
     ],
     "series": [
       {
@@ -159,9 +161,10 @@
           24,
           25,
           26,
-          26
+          26,
+          27
         ],
-        "total": 26
+        "total": 27
       },
       {
         "name": "Николай Толли",
@@ -191,9 +194,10 @@
           18,
           20,
           21,
-          21
+          21,
+          22
         ],
-        "total": 21
+        "total": 22
       },
       {
         "name": "Саша Березин",
@@ -223,9 +227,10 @@
           13,
           16,
           17,
-          20
+          20,
+          21
         ],
-        "total": 20
+        "total": 21
       },
       {
         "name": "Антон Борисенко",
@@ -255,9 +260,10 @@
           17,
           19,
           19,
-          19
+          19,
+          20
         ],
-        "total": 19
+        "total": 20
       },
       {
         "name": "Паша Федоров",
@@ -287,9 +293,10 @@
           17,
           16,
           18,
-          18
+          18,
+          19
         ],
-        "total": 18
+        "total": 19
       },
       {
         "name": "Marach",
@@ -319,9 +326,10 @@
           16,
           17,
           17,
-          17
+          17,
+          18
         ],
-        "total": 17
+        "total": 18
       },
       {
         "name": "Artur A",
@@ -351,9 +359,10 @@
           15,
           14,
           16,
-          16
+          16,
+          17
         ],
-        "total": 16
+        "total": 17
       },
       {
         "name": "Алексей",
@@ -383,9 +392,10 @@
           13,
           14,
           16,
-          16
+          16,
+          17
         ],
-        "total": 16
+        "total": 17
       },
       {
         "name": "Dmitriy S",
@@ -415,9 +425,10 @@
           13,
           13,
           13,
-          13
+          13,
+          14
         ],
-        "total": 13
+        "total": 14
       },
       {
         "name": "Max Mikhaylov",
@@ -446,6 +457,7 @@
           11,
           11,
           11,
+          13,
           13,
           13
         ],
@@ -479,9 +491,10 @@
           12,
           12,
           12,
-          12
+          12,
+          11
         ],
-        "total": 12
+        "total": 11
       },
       {
         "name": "Наиль Гайнуллов",
@@ -506,6 +519,7 @@
           7,
           8,
           9,
+          10,
           10,
           10,
           10,
@@ -3113,97 +3127,97 @@
       "kickoff_utc": "2026-06-18T19:00:00+00:00",
       "kickoff_msk": "18 июн 22:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
-        "home": 1,
-        "away": 0
+        "home": 4,
+        "away": 1
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
           "pa": 0,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 3,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 4,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 12
@@ -3222,7 +3236,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 10
+      "bets_count": 11
     },
     {
       "match_no": 28,
@@ -3238,7 +3252,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 10
+      "bets_count": 11
     },
     {
       "match_no": 29,
@@ -3254,7 +3268,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 9
+      "bets_count": 10
     },
     {
       "match_no": 30,
@@ -3270,7 +3284,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 7
+      "bets_count": 8
     },
     {
       "match_no": 31,
@@ -4458,17 +4472,17 @@
     }
   ],
   "totals": {
-    "226981762": 26,
-    "384182411": 21,
-    "115820189": 20,
-    "159916305": 19,
-    "195828871": 18,
-    "362589424": 17,
-    "1382936284": 16,
-    "285818716": 16,
-    "101254951": 13,
+    "226981762": 27,
+    "384182411": 22,
+    "115820189": 21,
+    "159916305": 20,
+    "195828871": 19,
+    "362589424": 18,
+    "1382936284": 17,
+    "285818716": 17,
+    "101254951": 14,
     "329891536": 13,
-    "213115416": 12,
+    "213115416": 11,
     "142503209": 10
   },
   "source": {
