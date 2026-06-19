@@ -1,72 +1,72 @@
 {
-  "updated_utc": "2026-06-19T02:24:13.680717+00:00",
-  "updated_msk": "19 июн 05:24",
+  "updated_utc": "2026-06-19T02:34:13.735107+00:00",
+  "updated_msk": "19 июн 05:34",
   "participants": [
     {
       "telegram_id": 226981762,
       "name": "Оля Кепински",
-      "total": 25,
+      "total": 28,
       "rank": 1
+    },
+    {
+      "telegram_id": 384182411,
+      "name": "Николай Толли",
+      "total": 23,
+      "rank": 2
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
       "total": 22,
-      "rank": 2
+      "rank": 3
     },
     {
-      "telegram_id": 384182411,
-      "name": "Николай Толли",
+      "telegram_id": 159916305,
+      "name": "Антон Борисенко",
       "total": 20,
-      "rank": 3
+      "rank": 4
     },
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
       "total": 20,
-      "rank": 3
+      "rank": 4
+    },
+    {
+      "telegram_id": 362589424,
+      "name": "Marach",
+      "total": 19,
+      "rank": 6
+    },
+    {
+      "telegram_id": 1382936284,
+      "name": "Artur A",
+      "total": 18,
+      "rank": 7
     },
     {
       "telegram_id": 285818716,
       "name": "Алексей",
       "total": 18,
-      "rank": 5
-    },
-    {
-      "telegram_id": 159916305,
-      "name": "Антон Борисенко",
-      "total": 17,
-      "rank": 6
-    },
-    {
-      "telegram_id": 362589424,
-      "name": "Marach",
-      "total": 16,
       "rank": 7
-    },
-    {
-      "telegram_id": 1382936284,
-      "name": "Artur A",
-      "total": 15,
-      "rank": 8
     },
     {
       "telegram_id": 101254951,
       "name": "Dmitriy S",
-      "total": 12,
+      "total": 15,
       "rank": 9
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 11,
+      "total": 14,
       "rank": 10
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 11,
-      "rank": 10
+      "total": 12,
+      "rank": 11
     },
     {
       "telegram_id": 142503209,
@@ -79,6 +79,7 @@
     "labels": [
       "№1",
       "№2",
+      "№3",
       "№4",
       "№5",
       "№6",
@@ -107,6 +108,7 @@
     "labels_full": [
       "Mexico–South Africa 2:0",
       "South Korea–Czechia 2:1",
+      "Canada–Bosnia-Herzegovina 1:1",
       "United States–Paraguay 4:1",
       "Qatar–Switzerland 1:1",
       "Brazil–Morocco 1:1",
@@ -139,38 +141,74 @@
         "cumulative": [
           3,
           6,
-          7,
-          7,
-          7,
+          9,
+          10,
+          10,
+          10,
+          10,
+          9,
+          10,
+          13,
+          16,
+          17,
+          17,
+          17,
+          17,
+          18,
+          21,
+          23,
+          24,
+          24,
+          24,
+          24,
+          25,
+          26,
+          26,
+          27,
+          28
+        ],
+        "total": 28
+      },
+      {
+        "name": "Николай Толли",
+        "color": "#0A84FF",
+        "cumulative": [
+          2,
+          2,
+          5,
+          6,
+          6,
+          6,
           7,
           6,
           7,
+          7,
+          9,
           10,
-          13,
-          14,
-          14,
-          14,
+          10,
+          10,
+          10,
+          11,
           14,
           15,
+          16,
+          17,
+          17,
           18,
           20,
           21,
           21,
-          21,
-          21,
           22,
-          23,
-          23,
-          24,
-          25
+          23
         ],
-        "total": 25
+        "total": 23
       },
       {
         "name": "Саша Березин",
-        "color": "#0A84FF",
+        "color": "#34C759",
         "cumulative": [
           1,
+          4,
           4,
           5,
           5,
@@ -200,42 +238,44 @@
         "total": 22
       },
       {
-        "name": "Николай Толли",
-        "color": "#34C759",
+        "name": "Антон Борисенко",
+        "color": "#FF9500",
         "cumulative": [
+          1,
+          0,
+          3,
           2,
           2,
+          2,
           3,
+          2,
           3,
-          3,
-          4,
-          3,
-          4,
-          4,
           6,
-          7,
-          7,
-          7,
-          7,
+          5,
+          5,
+          5,
           8,
-          11,
+          8,
+          9,
           12,
           13,
           14,
-          14,
-          15,
           17,
-          18,
-          18,
+          17,
+          17,
           19,
+          19,
+          19,
+          20,
           20
         ],
         "total": 20
       },
       {
         "name": "Паша Федоров",
-        "color": "#FF9500",
+        "color": "#AF52DE",
         "cumulative": [
+          3,
           3,
           3,
           4,
@@ -266,10 +306,79 @@
         "total": 20
       },
       {
+        "name": "Marach",
+        "color": "#00C7BE",
+        "cumulative": [
+          1,
+          3,
+          6,
+          6,
+          6,
+          6,
+          7,
+          6,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          10,
+          11,
+          14,
+          15,
+          15,
+          16,
+          17,
+          17,
+          17,
+          18,
+          19
+        ],
+        "total": 19
+      },
+      {
+        "name": "Artur A",
+        "color": "#FF2D55",
+        "cumulative": [
+          1,
+          1,
+          4,
+          5,
+          5,
+          5,
+          6,
+          5,
+          7,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          13,
+          12,
+          15,
+          15,
+          15,
+          14,
+          16,
+          16,
+          17,
+          18
+        ],
+        "total": 18
+      },
+      {
         "name": "Алексей",
-        "color": "#AF52DE",
+        "color": "#5856D6",
         "cumulative": [
           0,
+          -1,
           -1,
           0,
           0,
@@ -299,97 +408,32 @@
         "total": 18
       },
       {
-        "name": "Антон Борисенко",
-        "color": "#00C7BE",
+        "name": "Dmitriy S",
+        "color": "#FFCC00",
         "cumulative": [
-          1,
           0,
-          -1,
-          -1,
-          -1,
-          0,
-          -1,
           0,
           3,
-          2,
-          2,
-          2,
-          5,
+          3,
+          3,
+          3,
+          6,
           5,
           6,
-          9,
-          10,
-          11,
-          14,
-          14,
-          14,
-          16,
-          16,
-          16,
-          17,
-          17
-        ],
-        "total": 17
-      },
-      {
-        "name": "Marach",
-        "color": "#FF2D55",
-        "cumulative": [
-          1,
-          3,
-          3,
-          3,
-          3,
-          4,
-          3,
-          4,
-          4,
-          4,
-          4,
-          4,
-          4,
-          4,
-          4,
+          6,
+          6,
+          7,
+          7,
+          7,
+          7,
           7,
           8,
-          11,
+          9,
+          10,
           12,
           12,
           13,
-          14,
-          14,
-          14,
-          15,
-          16
-        ],
-        "total": 16
-      },
-      {
-        "name": "Artur A",
-        "color": "#5856D6",
-        "cumulative": [
-          1,
-          1,
-          2,
-          2,
-          2,
-          3,
-          2,
-          4,
-          5,
-          5,
-          6,
-          6,
-          6,
-          6,
-          6,
-          7,
-          10,
-          9,
-          12,
-          12,
-          12,
-          11,
+          13,
           13,
           13,
           14,
@@ -398,70 +442,38 @@
         "total": 15
       },
       {
-        "name": "Dmitriy S",
-        "color": "#FFCC00",
-        "cumulative": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          3,
-          2,
-          3,
-          3,
-          3,
-          4,
-          4,
-          4,
-          4,
-          4,
-          5,
-          6,
-          7,
-          9,
-          9,
-          10,
-          10,
-          10,
-          10,
-          11,
-          12
-        ],
-        "total": 12
-      },
-      {
         "name": "Max Mikhaylov",
         "color": "#30B0C7",
         "cumulative": [
           1,
           1,
-          2,
-          2,
-          2,
-          3,
-          2,
-          3,
-          3,
-          2,
-          3,
-          3,
-          3,
-          3,
-          3,
+          4,
+          5,
+          5,
           5,
           6,
-          7,
+          5,
+          6,
+          6,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
           8,
-          8,
-          8,
-          8,
+          9,
           10,
-          10,
-          10,
-          11
+          11,
+          11,
+          11,
+          11,
+          13,
+          13,
+          13,
+          14
         ],
-        "total": 11
+        "total": 14
       },
       {
         "name": "Фил Чирков",
@@ -470,36 +482,38 @@
           3,
           3,
           4,
-          4,
-          4,
-          5,
-          4,
           5,
           5,
           5,
           6,
-          6,
+          5,
           6,
           6,
           6,
           7,
+          7,
+          7,
+          7,
+          7,
           8,
           9,
-          11,
-          11,
-          11,
-          11,
-          11,
-          11,
           10,
-          11
+          12,
+          12,
+          12,
+          12,
+          12,
+          12,
+          11,
+          12
         ],
-        "total": 11
+        "total": 12
       },
       {
         "name": "Наиль Гайнуллов",
         "color": "#8E8E93",
         "cumulative": [
+          3,
           3,
           3,
           5,
@@ -557,13 +571,6 @@
           "points": 3
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 3,
@@ -571,18 +578,11 @@
           "points": 2
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 3,
           "pa": 0,
-          "points": 3
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
+          "points": 1
         },
         {
           "telegram_id": 159916305,
@@ -590,6 +590,13 @@
           "ph": 3,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 362589424,
@@ -604,6 +611,13 @@
           "ph": 1,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 101254951,
@@ -661,13 +675,6 @@
           "points": 3
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
@@ -675,18 +682,11 @@
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 1,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 2,
           "pa": 1,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
+          "points": 3
         },
         {
           "telegram_id": 159916305,
@@ -694,6 +694,13 @@
           "ph": 1,
           "pa": 2,
           "points": -1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 362589424,
@@ -708,6 +715,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         },
         {
           "telegram_id": 101254951,
@@ -749,9 +763,12 @@
       "kickoff_utc": "2026-06-12T19:00:00+00:00",
       "kickoff_msk": "12 июн 22:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
-      "score": null,
+      "score": {
+        "home": 1,
+        "away": 1
+      },
       "status": "FINISHED",
       "bets": [
         {
@@ -759,84 +776,84 @@
           "name": "Оля Кепински",
           "ph": 1,
           "pa": 1,
-          "points": null
-        },
-        {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 0,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 3
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 0,
-          "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 3
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 12
@@ -866,13 +883,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 3,
@@ -880,15 +890,8 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -901,6 +904,13 @@
           "points": -1
         },
         {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
+        },
+        {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
@@ -910,6 +920,13 @@
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -970,13 +987,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 0,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
@@ -984,22 +994,22 @@
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 0,
-          "pa": 2,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 4,
+          "pa": 3,
           "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
+          "ph": 0,
+          "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 0
@@ -1016,6 +1026,13 @@
           "name": "Artur A",
           "ph": 0,
           "pa": 5,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
           "points": 0
         },
         {
@@ -1074,13 +1091,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -1088,23 +1098,23 @@
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 2,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 3,
+          "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
           "pa": 1,
           "points": 0
         },
@@ -1121,6 +1131,13 @@
           "ph": 2,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 101254951,
@@ -1178,13 +1195,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 0,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 0,
@@ -1192,22 +1202,22 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 0,
-          "pa": 4,
+          "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -1224,6 +1234,13 @@
           "name": "Artur A",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
           "points": 1
         },
         {
@@ -1282,6 +1299,13 @@
           "points": -1
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
@@ -1289,8 +1313,8 @@
           "points": -1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 1,
           "pa": 2,
           "points": -1
@@ -1299,20 +1323,6 @@
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
-          "pa": 2,
-          "points": -1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 3,
-          "points": -1
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 1,
           "pa": 2,
           "points": -1
         },
@@ -1327,6 +1337,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
+          "pa": 3,
+          "points": -1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
           "pa": 3,
           "points": -1
         },
@@ -1386,13 +1403,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 4,
@@ -1400,22 +1410,22 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 5,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 7,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
+          "ph": 5,
+          "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 5,
           "pa": 0,
           "points": 1
@@ -1433,6 +1443,13 @@
           "ph": 6,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 7,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -1490,13 +1507,6 @@
           "points": 3
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -1504,16 +1514,9 @@
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 0,
-          "pa": 1,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 1,
           "pa": 0,
           "points": 0
         },
@@ -1523,6 +1526,13 @@
           "ph": 2,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 362589424,
@@ -1537,6 +1547,13 @@
           "ph": 3,
           "pa": 3,
           "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 101254951,
@@ -1594,13 +1611,6 @@
           "points": 3
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -1608,15 +1618,8 @@
           "points": 2
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -1627,6 +1630,13 @@
           "ph": 0,
           "pa": 2,
           "points": -1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 362589424,
@@ -1640,6 +1650,13 @@
           "name": "Artur A",
           "ph": 0,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 1,
           "points": 0
         },
         {
@@ -1698,13 +1715,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
@@ -1712,18 +1722,11 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 1,
           "pa": 1,
-          "points": 1
+          "points": 0
         },
         {
           "telegram_id": 159916305,
@@ -1731,6 +1734,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 362589424,
@@ -1742,6 +1752,13 @@
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 3,
           "pa": 1,
           "points": 1
@@ -1802,13 +1819,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 3,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 3,
@@ -1816,16 +1826,9 @@
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 4,
-          "pa": 0,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 6,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
@@ -1833,6 +1836,13 @@
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 5,
+          "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
@@ -1847,6 +1857,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 3,
+          "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 6,
           "pa": 0,
           "points": 0
         },
@@ -1906,13 +1923,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -1920,22 +1930,22 @@
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 2,
-          "pa": 1,
+          "pa": 0,
           "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 3
@@ -1952,6 +1962,13 @@
           "name": "Artur A",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 1,
           "points": 0
         },
         {
@@ -2003,6 +2020,13 @@
           "points": 0
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": 0
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
@@ -2010,9 +2034,9 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 0,
           "pa": 2,
           "points": 0
         },
@@ -2022,20 +2046,6 @@
           "ph": 0,
           "pa": 0,
           "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 0,
-          "pa": 2,
-          "points": 0
         },
         {
           "telegram_id": 362589424,
@@ -2048,6 +2058,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 0,
+          "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
           "pa": 2,
           "points": 0
         },
@@ -2107,6 +2124,13 @@
           "points": 1
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
@@ -2114,8 +2138,8 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 1,
           "pa": 1,
           "points": 1
@@ -2128,20 +2152,6 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
@@ -2152,6 +2162,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 2,
+          "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
           "pa": 0,
           "points": 0
         },
@@ -2211,6 +2228,13 @@
           "points": 3
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
@@ -2218,8 +2242,8 @@
           "points": 2
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 3,
           "pa": 1,
           "points": 3
@@ -2232,20 +2256,6 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
@@ -2256,6 +2266,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
+          "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
@@ -2315,6 +2332,13 @@
           "points": 2
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
@@ -2322,8 +2346,8 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -2334,20 +2358,6 @@
           "ph": 0,
           "pa": 3,
           "points": 2
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 0,
-          "pa": 2,
-          "points": 1
         },
         {
           "telegram_id": 362589424,
@@ -2362,6 +2372,13 @@
           "ph": 1,
           "pa": 4,
           "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -2419,13 +2436,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 3,
@@ -2433,15 +2443,8 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 2,
           "pa": 0,
           "points": 1
@@ -2451,6 +2454,13 @@
           "name": "Антон Борисенко",
           "ph": 3,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
           "points": 1
         },
         {
@@ -2466,6 +2476,13 @@
           "ph": 1,
           "pa": 2,
           "points": -1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -2523,13 +2540,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 2,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
@@ -2537,18 +2547,11 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 3,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 2,
           "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
+          "points": 2
         },
         {
           "telegram_id": 159916305,
@@ -2556,6 +2559,13 @@
           "ph": 3,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 362589424,
@@ -2567,6 +2577,13 @@
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 3,
           "pa": 1,
           "points": 3
@@ -2627,6 +2644,13 @@
           "points": 0
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
+          "points": 0
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
@@ -2634,8 +2658,8 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 3,
           "pa": 1,
           "points": 0
@@ -2645,20 +2669,6 @@
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 6,
-          "pa": 0,
-          "points": 0
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 3,
-          "pa": 1,
           "points": 0
         },
         {
@@ -2672,6 +2682,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
+          "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 6,
           "pa": 0,
           "points": 0
         },
@@ -2731,13 +2748,6 @@
           "points": 0
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -2745,18 +2755,11 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
-          "pa": 0,
-          "points": 2
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 2
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 159916305,
@@ -2764,6 +2767,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 362589424,
@@ -2778,6 +2788,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 101254951,
@@ -2835,6 +2852,13 @@
           "points": 1
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 2
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
@@ -2842,8 +2866,8 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 2,
           "pa": 1,
           "points": 2
@@ -2854,20 +2878,6 @@
           "ph": 0,
           "pa": 1,
           "points": -1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
         },
         {
           "telegram_id": 362589424,
@@ -2882,6 +2892,13 @@
           "ph": 0,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -2939,13 +2956,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 0,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
@@ -2953,18 +2963,11 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 0,
-          "pa": 2,
-          "points": 2
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 2,
-          "points": 2
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 159916305,
@@ -2972,6 +2975,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 2,
+          "points": 2
         },
         {
           "telegram_id": 362589424,
@@ -2983,6 +2993,13 @@
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
+          "ph": 0,
+          "pa": 2,
+          "points": 2
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 0,
           "pa": 2,
           "points": 2
@@ -3036,6 +3053,13 @@
           "points": 0
         },
         {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 0
+        },
+        {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
@@ -3043,8 +3067,8 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -3054,20 +3078,6 @@
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
-          "points": 0
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
-          "telegram_id": 159916305,
-          "name": "Антон Борисенко",
-          "ph": 2,
-          "pa": 1,
           "points": 0
         },
         {
@@ -3082,6 +3092,13 @@
           "name": "Artur A",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -3140,13 +3157,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -3154,16 +3164,9 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 1,
           "pa": 0,
           "points": 1
         },
@@ -3172,6 +3175,13 @@
           "name": "Антон Борисенко",
           "ph": 3,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
           "points": 1
         },
         {
@@ -3186,6 +3196,13 @@
           "name": "Artur A",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 1
         },
         {
@@ -3244,13 +3261,6 @@
           "points": 1
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
@@ -3258,17 +3268,10 @@
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 1,
           "pa": 0,
-          "points": 1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 1,
           "points": 1
         },
         {
@@ -3277,6 +3280,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 362589424,
@@ -3290,6 +3300,13 @@
           "name": "Artur A",
           "ph": 3,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -3348,13 +3365,6 @@
           "points": null
         },
         {
-          "telegram_id": 115820189,
-          "name": "Саша Березин",
-          "ph": 1,
-          "pa": 2,
-          "points": null
-        },
-        {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
@@ -3362,17 +3372,10 @@
           "points": null
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
           "ph": 1,
-          "pa": 1,
-          "points": null
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 1,
+          "pa": 2,
           "points": null
         },
         {
@@ -3380,6 +3383,13 @@
           "name": "Антон Борисенко",
           "ph": 2,
           "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 1,
           "points": null
         },
         {
@@ -3393,6 +3403,13 @@
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
           "pa": 1,
           "points": null
         },
@@ -4645,17 +4662,17 @@
     }
   ],
   "totals": {
-    "226981762": 25,
+    "226981762": 28,
+    "384182411": 23,
     "115820189": 22,
-    "384182411": 20,
+    "159916305": 20,
     "195828871": 20,
+    "362589424": 19,
+    "1382936284": 18,
     "285818716": 18,
-    "159916305": 17,
-    "362589424": 16,
-    "1382936284": 15,
-    "101254951": 12,
-    "329891536": 11,
-    "213115416": 11,
+    "101254951": 15,
+    "329891536": 14,
+    "213115416": 12,
     "142503209": 9
   },
   "source": {
