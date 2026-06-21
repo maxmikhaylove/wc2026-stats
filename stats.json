@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-21T20:34:13.721516+00:00",
-  "updated_msk": "21 июн 23:34",
+  "updated_utc": "2026-06-21T20:44:13.650152+00:00",
+  "updated_msk": "21 июн 23:44",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -45,12 +45,6 @@
       "rank": 7
     },
     {
-      "telegram_id": 362589424,
-      "name": "Marach",
-      "total": 23,
-      "rank": 8
-    },
-    {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
       "total": 23,
@@ -66,6 +60,12 @@
       "telegram_id": 101254951,
       "name": "Dmitriy S",
       "total": 22,
+      "rank": 10
+    },
+    {
+      "telegram_id": 362589424,
+      "name": "Marach",
+      "total": 21,
       "rank": 11
     },
     {
@@ -152,7 +152,7 @@
       "Germany–Ivory Coast 2:1",
       "Ecuador–Curaçao 0:0",
       "Tunisia–Japan 0:4",
-      "Spain–Saudi Arabia 5:0"
+      "Spain–Saudi Arabia 4:0"
     ],
     "series": [
       {
@@ -464,52 +464,8 @@
         "total": 25
       },
       {
-        "name": "Marach",
-        "color": "#5856D6",
-        "cumulative": [
-          1,
-          3,
-          6,
-          6,
-          6,
-          6,
-          7,
-          6,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          7,
-          10,
-          11,
-          14,
-          15,
-          15,
-          16,
-          17,
-          17,
-          17,
-          18,
-          19,
-          21,
-          21,
-          21,
-          22,
-          21,
-          21,
-          20,
-          20,
-          20,
-          23
-        ],
-        "total": 23
-      },
-      {
         "name": "Max Mikhaylov",
-        "color": "#FFCC00",
+        "color": "#5856D6",
         "cumulative": [
           1,
           1,
@@ -553,7 +509,7 @@
       },
       {
         "name": "Фил Чирков",
-        "color": "#30B0C7",
+        "color": "#FFCC00",
         "cumulative": [
           3,
           3,
@@ -597,7 +553,7 @@
       },
       {
         "name": "Dmitriy S",
-        "color": "#A2845E",
+        "color": "#30B0C7",
         "cumulative": [
           0,
           0,
@@ -638,6 +594,50 @@
           22
         ],
         "total": 22
+      },
+      {
+        "name": "Marach",
+        "color": "#A2845E",
+        "cumulative": [
+          1,
+          3,
+          6,
+          6,
+          6,
+          6,
+          7,
+          6,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          7,
+          10,
+          11,
+          14,
+          15,
+          15,
+          16,
+          17,
+          17,
+          17,
+          18,
+          19,
+          21,
+          21,
+          21,
+          22,
+          21,
+          21,
+          20,
+          20,
+          20,
+          21
+        ],
+        "total": 21
       },
       {
         "name": "Наиль Гайнуллов",
@@ -753,13 +753,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -779,6 +772,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -857,13 +857,6 @@
           "points": -1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -883,6 +876,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -961,13 +961,6 @@
           "points": 3
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -984,6 +977,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 1,
           "pa": 1,
           "points": 3
@@ -1065,13 +1065,6 @@
           "points": -1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -1090,6 +1083,13 @@
           "name": "Dmitriy S",
           "ph": 1,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
+          "pa": 0,
           "points": 0
         },
         {
@@ -1169,13 +1169,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -1192,6 +1185,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 0,
+          "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 0,
           "pa": 2,
           "points": 0
@@ -1273,13 +1273,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -1296,6 +1289,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 2,
+          "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -1377,13 +1377,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -1403,6 +1396,13 @@
           "ph": 0,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -1481,13 +1481,6 @@
           "points": -1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -1505,6 +1498,13 @@
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 1,
+          "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
           "pa": 2,
           "points": -1
         },
@@ -1585,13 +1585,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 4,
@@ -1608,6 +1601,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 3,
           "pa": 0,
           "points": 1
@@ -1689,13 +1689,6 @@
           "points": 3
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -1714,6 +1707,13 @@
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -1793,13 +1793,6 @@
           "points": -1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -1818,6 +1811,13 @@
           "name": "Dmitriy S",
           "ph": 1,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
+          "pa": 0,
           "points": 0
         },
         {
@@ -1897,13 +1897,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -1923,6 +1916,13 @@
           "ph": 1,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -2001,13 +2001,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 4,
@@ -2025,6 +2018,13 @@
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 3,
+          "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
@@ -2105,13 +2105,6 @@
           "points": 3
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -2128,6 +2121,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 2,
+          "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -2202,13 +2202,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -2225,6 +2218,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 0,
+          "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 0,
           "pa": 2,
           "points": 0
@@ -2306,13 +2306,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -2330,6 +2323,13 @@
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 1,
+          "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
@@ -2410,13 +2410,6 @@
           "points": 3
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -2436,6 +2429,13 @@
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 142503209,
@@ -2514,13 +2514,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -2539,6 +2532,13 @@
           "name": "Dmitriy S",
           "ph": 1,
           "pa": 3,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
+          "pa": 4,
           "points": 1
         },
         {
@@ -2618,13 +2618,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -2644,6 +2637,13 @@
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 142503209,
@@ -2722,13 +2722,6 @@
           "points": 3
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -2748,6 +2741,13 @@
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -2826,13 +2826,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 3,
@@ -2851,6 +2844,13 @@
           "name": "Dmitriy S",
           "ph": 3,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 2,
           "points": 0
         },
         {
@@ -2930,13 +2930,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -2953,6 +2946,13 @@
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -3034,13 +3034,6 @@
           "points": 2
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -3060,6 +3053,13 @@
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -3138,13 +3138,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -3154,6 +3147,13 @@
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -3235,13 +3235,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 3,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -3260,6 +3253,13 @@
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
+          "pa": 2,
           "points": 0
         },
         {
@@ -3339,13 +3339,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
@@ -3364,6 +3357,13 @@
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
+          "pa": 2,
           "points": 1
         },
         {
@@ -3443,13 +3443,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -3467,6 +3460,13 @@
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 3,
+          "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
           "pa": 1,
           "points": 1
         },
@@ -3547,13 +3547,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 3,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -3573,6 +3566,13 @@
           "ph": 2,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
+          "pa": 3,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -3748,13 +3748,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
@@ -3774,6 +3767,13 @@
           "ph": 1,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -3852,13 +3852,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 3,
@@ -3877,6 +3870,13 @@
           "name": "Dmitriy S",
           "ph": 3,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
+          "pa": 0,
           "points": 1
         },
         {
@@ -3956,13 +3956,6 @@
           "points": -1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 2,
-          "pa": 0,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -3981,6 +3974,13 @@
           "name": "Dmitriy S",
           "ph": 3,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 2,
+          "pa": 0,
           "points": -1
         },
         {
@@ -4157,13 +4157,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 3,
@@ -4183,6 +4176,13 @@
           "ph": 3,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         }
       ],
       "bets_count": 11
@@ -4247,13 +4247,6 @@
           "points": 0
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -4271,6 +4264,13 @@
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 3,
+          "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
           "pa": 1,
           "points": 0
         }
@@ -4372,7 +4372,7 @@
       "finished": true,
       "revealed": true,
       "score": {
-        "home": 5,
+        "home": 4,
         "away": 0
       },
       "status": "FINISHED",
@@ -4420,13 +4420,6 @@
           "points": 1
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 5,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -4438,6 +4431,13 @@
           "name": "Dmitriy S",
           "ph": 3,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 5,
+          "pa": 0,
           "points": 1
         }
       ],
@@ -4510,13 +4510,6 @@
           "points": null
         },
         {
-          "telegram_id": 362589424,
-          "name": "Marach",
-          "ph": 4,
-          "pa": 0,
-          "points": null
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
@@ -4535,6 +4528,13 @@
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 4,
+          "pa": 0,
           "points": null
         },
         {
@@ -5612,10 +5612,10 @@
     "1382936284": 27,
     "285818716": 26,
     "159916305": 25,
-    "362589424": 23,
     "329891536": 23,
     "213115416": 23,
     "101254951": 22,
+    "362589424": 21,
     "142503209": 12
   },
   "source": {
