@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-22T21:55:13.174280+00:00",
-  "updated_msk": "23 июн 00:55",
+  "updated_utc": "2026-06-22T22:04:13.640002+00:00",
+  "updated_msk": "23 июн 01:04",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -4923,7 +4923,7 @@
         "home": 1,
         "away": 0
       },
-      "status": "IN_PLAY",
+      "status": "PAUSED",
       "bets": [
         {
           "telegram_id": 226981762,
