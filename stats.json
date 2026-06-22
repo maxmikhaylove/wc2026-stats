@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-22T12:55:13.168212+00:00",
-  "updated_msk": "22 июн 15:55",
+  "updated_utc": "2026-06-22T13:55:13.164426+00:00",
+  "updated_msk": "22 июн 16:55",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -4804,7 +4804,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 10
+      "bets_count": 11
     },
     {
       "match_no": 42,
@@ -4916,7 +4916,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 3
+      "bets_count": 4
     },
     {
       "match_no": 49,
@@ -4932,7 +4932,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 1
+      "bets_count": 2
     },
     {
       "match_no": 50,
@@ -4948,7 +4948,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 1
+      "bets_count": 2
     },
     {
       "match_no": 51,
@@ -4964,7 +4964,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 1
+      "bets_count": 2
     },
     {
       "match_no": 52,
@@ -4980,7 +4980,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 1
+      "bets_count": 2
     },
     {
       "match_no": 53,
@@ -4996,7 +4996,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 1
+      "bets_count": 2
     },
     {
       "match_no": 54,
@@ -5012,7 +5012,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 1
+      "bets_count": 2
     },
     {
       "match_no": 55,
@@ -5028,7 +5028,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 0
+      "bets_count": 1
     },
     {
       "match_no": 56,
@@ -5044,7 +5044,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 0
+      "bets_count": 1
     },
     {
       "match_no": 57,
@@ -5060,7 +5060,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 0
+      "bets_count": 1
     },
     {
       "match_no": 58,
@@ -5076,7 +5076,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 0
+      "bets_count": 1
     },
     {
       "match_no": 59,
