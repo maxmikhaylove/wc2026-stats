@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-23T22:04:13.989568+00:00",
-  "updated_msk": "24 июн 01:04",
+  "updated_utc": "2026-06-23T22:14:13.935789+00:00",
+  "updated_msk": "24 июн 01:14",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -121,7 +121,8 @@
       "№42",
       "№43",
       "№44",
-      "№45"
+      "№45",
+      "№46"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -168,7 +169,8 @@
       "France–Iraq 3:0",
       "Norway–Senegal 3:2",
       "Jordan–Algeria 1:2",
-      "Portugal–Uzbekistan 5:0"
+      "Portugal–Uzbekistan 5:0",
+      "England–Ghana 0:0"
     ],
     "series": [
       {
@@ -219,6 +221,7 @@
           42,
           44,
           45,
+          46,
           46
         ],
         "total": 46
@@ -271,6 +274,7 @@
           34,
           36,
           39,
+          40,
           40
         ],
         "total": 40
@@ -323,6 +327,7 @@
           33,
           35,
           36,
+          37,
           37
         ],
         "total": 37
@@ -375,6 +380,7 @@
           35,
           35,
           35,
+          36,
           36
         ],
         "total": 36
@@ -427,6 +433,7 @@
           33,
           33,
           34,
+          35,
           35
         ],
         "total": 35
@@ -479,6 +486,7 @@
           32,
           33,
           34,
+          35,
           35
         ],
         "total": 35
@@ -531,6 +539,7 @@
           29,
           31,
           33,
+          34,
           34
         ],
         "total": 34
@@ -583,6 +592,7 @@
           30,
           33,
           33,
+          34,
           34
         ],
         "total": 34
@@ -635,6 +645,7 @@
           30,
           30,
           31,
+          32,
           32
         ],
         "total": 32
@@ -687,6 +698,7 @@
           25,
           25,
           25,
+          26,
           26
         ],
         "total": 26
@@ -738,6 +750,7 @@
           21,
           22,
           24,
+          25,
           25,
           25
         ],
@@ -791,6 +804,7 @@
           17,
           18,
           18,
+          19,
           19
         ],
         "total": 19
@@ -5382,87 +5396,90 @@
       "kickoff_utc": "2026-06-23T20:00:00+00:00",
       "kickoff_msk": "23 июн 23:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
-      "score": null,
-      "status": "LIVE",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 5,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 3,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 3,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 3,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 3,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 4,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 4,
           "pa": 0,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 11
@@ -5919,7 +5936,7 @@
       "match_no": 75,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Germany",
       "away": "TBD",
       "kickoff_utc": "2026-06-29T20:30:00+00:00",
       "kickoff_msk": "29 июн 23:30",
@@ -5983,7 +6000,7 @@
       "match_no": 79,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Mexico",
       "away": "TBD",
       "kickoff_utc": "2026-07-01T01:00:00+00:00",
       "kickoff_msk": "1 июл 04:00",
@@ -6031,7 +6048,7 @@
       "match_no": 82,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "United States",
       "away": "TBD",
       "kickoff_utc": "2026-07-02T00:00:00+00:00",
       "kickoff_msk": "2 июл 03:00",
