@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-25T00:55:13.173230+00:00",
-  "updated_msk": "25 июн 03:55",
+  "updated_utc": "2026-06-25T01:04:13.921415+00:00",
+  "updated_msk": "25 июн 04:04",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -6102,12 +6102,76 @@
       "away": "Mexico",
       "kickoff_utc": "2026-06-25T01:00:00+00:00",
       "kickoff_msk": "25 июн 04:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
+      "bets": [
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 1,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        }
+      ],
       "bets_count": 9
     },
     {
@@ -6118,12 +6182,69 @@
       "away": "South Korea",
       "kickoff_utc": "2026-06-25T01:00:00+00:00",
       "kickoff_msk": "25 июн 04:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
+      "bets": [
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 1,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        }
+      ],
       "bets_count": 8
     },
     {
@@ -6450,7 +6571,7 @@
       "match_no": 75,
       "stage": "LAST_32",
       "group": null,
-      "home": "Germany",
+      "home": "TBD",
       "away": "TBD",
       "kickoff_utc": "2026-06-29T20:30:00+00:00",
       "kickoff_msk": "29 июн 23:30",
@@ -6514,7 +6635,7 @@
       "match_no": 79,
       "stage": "LAST_32",
       "group": null,
-      "home": "Mexico",
+      "home": "TBD",
       "away": "TBD",
       "kickoff_utc": "2026-07-01T01:00:00+00:00",
       "kickoff_msk": "1 июл 04:00",
@@ -6562,7 +6683,7 @@
       "match_no": 82,
       "stage": "LAST_32",
       "group": null,
-      "home": "United States",
+      "home": "TBD",
       "away": "TBD",
       "kickoff_utc": "2026-07-02T00:00:00+00:00",
       "kickoff_msk": "2 июл 03:00",
@@ -6642,7 +6763,7 @@
       "match_no": 87,
       "stage": "LAST_32",
       "group": null,
-      "home": "Argentina",
+      "home": "TBD",
       "away": "TBD",
       "kickoff_utc": "2026-07-03T22:00:00+00:00",
       "kickoff_msk": "4 июл 01:00",
