@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-25T02:55:13.167809+00:00",
-  "updated_msk": "25 июн 05:55",
+  "updated_utc": "2026-06-25T03:04:13.923216+00:00",
+  "updated_msk": "25 июн 06:04",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -9,28 +9,28 @@
       "rank": 1
     },
     {
-      "telegram_id": 384182411,
-      "name": "Николай Толли",
-      "total": 48,
+      "telegram_id": 195828871,
+      "name": "Паша Федоров",
+      "total": 49,
       "rank": 2
     },
     {
-      "telegram_id": 195828871,
-      "name": "Паша Федоров",
+      "telegram_id": 384182411,
+      "name": "Николай Толли",
       "total": 48,
-      "rank": 2
+      "rank": 3
     },
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 43,
+      "total": 42,
       "rank": 4
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
       "total": 42,
-      "rank": 5
+      "rank": 4
     },
     {
       "telegram_id": 159916305,
@@ -41,8 +41,8 @@
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 41,
-      "rank": 6
+      "total": 40,
+      "rank": 7
     },
     {
       "telegram_id": 213115416,
@@ -59,19 +59,19 @@
     {
       "telegram_id": 101254951,
       "name": "Dmitriy S",
-      "total": 33,
+      "total": 32,
       "rank": 10
     },
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 29,
+      "total": 28,
       "rank": 11
     },
     {
       "telegram_id": 142503209,
       "name": "Наиль Гайнуллов",
-      "total": 24,
+      "total": 23,
       "rank": 12
     }
   ],
@@ -128,7 +128,9 @@
       "№49",
       "№50",
       "№51",
-      "№52"
+      "№52",
+      "№53",
+      "№54"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -182,7 +184,9 @@
       "Switzerland–Canada 2:1",
       "Bosnia-Herzegovina–Qatar 3:1",
       "Morocco–Haiti 4:2",
-      "Scotland–Brazil 0:3"
+      "Scotland–Brazil 0:3",
+      "Czechia–Mexico 0:3",
+      "South Africa–South Korea 1:0"
     ],
     "series": [
       {
@@ -240,72 +244,15 @@
           53,
           53,
           54,
+          55,
+          56,
           55
         ],
         "total": 55
       },
       {
-        "name": "Николай Толли",
-        "color": "#0A84FF",
-        "cumulative": [
-          2,
-          2,
-          5,
-          6,
-          6,
-          6,
-          7,
-          6,
-          7,
-          7,
-          9,
-          10,
-          10,
-          10,
-          10,
-          11,
-          14,
-          15,
-          16,
-          17,
-          17,
-          18,
-          20,
-          21,
-          21,
-          22,
-          23,
-          23,
-          24,
-          24,
-          27,
-          26,
-          27,
-          26,
-          26,
-          27,
-          28,
-          28,
-          28,
-          29,
-          31,
-          34,
-          36,
-          39,
-          40,
-          40,
-          41,
-          43,
-          43,
-          46,
-          47,
-          48
-        ],
-        "total": 48
-      },
-      {
         "name": "Паша Федоров",
-        "color": "#34C759",
+        "color": "#0A84FF",
         "cumulative": [
           3,
           3,
@@ -358,6 +305,69 @@
           43,
           45,
           47,
+          48,
+          49,
+          49
+        ],
+        "total": 49
+      },
+      {
+        "name": "Николай Толли",
+        "color": "#34C759",
+        "cumulative": [
+          2,
+          2,
+          5,
+          6,
+          6,
+          6,
+          7,
+          6,
+          7,
+          7,
+          9,
+          10,
+          10,
+          10,
+          10,
+          11,
+          14,
+          15,
+          16,
+          17,
+          17,
+          18,
+          20,
+          21,
+          21,
+          22,
+          23,
+          23,
+          24,
+          24,
+          27,
+          26,
+          27,
+          26,
+          26,
+          27,
+          28,
+          28,
+          28,
+          29,
+          31,
+          34,
+          36,
+          39,
+          40,
+          40,
+          41,
+          43,
+          43,
+          46,
+          47,
+          48,
+          49,
           48
         ],
         "total": 48
@@ -417,9 +427,11 @@
           40,
           41,
           42,
-          43
+          43,
+          43,
+          42
         ],
-        "total": 43
+        "total": 42
       },
       {
         "name": "Max Mikhaylov",
@@ -475,6 +487,8 @@
           40,
           40,
           40,
+          42,
+          42,
           42,
           42
         ],
@@ -535,6 +549,8 @@
           37,
           37,
           38,
+          41,
+          42,
           41
         ],
         "total": 41
@@ -594,9 +610,11 @@
           38,
           39,
           40,
-          41
+          41,
+          41,
+          40
         ],
-        "total": 41
+        "total": 40
       },
       {
         "name": "Фил Чирков",
@@ -653,6 +671,8 @@
           38,
           38,
           38,
+          38,
+          38,
           38
         ],
         "total": 38
@@ -705,6 +725,8 @@
           32,
           33,
           34,
+          35,
+          35,
           35,
           35,
           35,
@@ -771,9 +793,11 @@
           29,
           30,
           32,
-          33
+          33,
+          33,
+          32
         ],
-        "total": 33
+        "total": 32
       },
       {
         "name": "Marach",
@@ -830,9 +854,11 @@
           26,
           27,
           28,
-          29
+          29,
+          29,
+          28
         ],
-        "total": 29
+        "total": 28
       },
       {
         "name": "Наиль Гайнуллов",
@@ -889,9 +915,11 @@
           21,
           20,
           21,
-          24
+          24,
+          24,
+          23
         ],
-        "total": 24
+        "total": 23
       }
     ]
   },
@@ -921,18 +949,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -1025,15 +1053,15 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -1129,18 +1157,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -1233,17 +1261,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -1337,17 +1365,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 3,
           "points": 0
         },
         {
@@ -1441,15 +1469,15 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -1545,15 +1573,15 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -1649,16 +1677,16 @@
           "points": -1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
           "pa": 2,
           "points": -1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 0,
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
           "pa": 2,
           "points": -1
         },
@@ -1753,16 +1781,16 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 4,
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 5,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 5,
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 4,
           "pa": 0,
           "points": 1
         },
@@ -1857,16 +1885,16 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 0,
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
           "pa": 1,
           "points": 0
         },
@@ -1961,18 +1989,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -2065,16 +2093,16 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 2,
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
           "pa": 0,
           "points": 1
         },
@@ -2169,17 +2197,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 4,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -2273,18 +2301,18 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -2370,18 +2398,18 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -2474,18 +2502,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -2578,18 +2606,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -2682,18 +2710,18 @@
           "points": 2
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 0,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 3,
           "points": 2
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -2786,17 +2814,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -2890,16 +2918,16 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
-          "ph": 3,
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
           "pa": 0,
           "points": 1
         },
@@ -2994,17 +3022,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -3098,18 +3126,18 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -3202,18 +3230,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -3306,18 +3334,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -3403,17 +3431,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
           "points": 0
         },
         {
@@ -3507,17 +3535,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -3611,17 +3639,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -3715,15 +3743,15 @@
           "points": 2
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -3819,18 +3847,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -3916,18 +3944,18 @@
           "points": 2
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -4020,18 +4048,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 4,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -4124,17 +4152,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": -1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
           "points": -1
         },
         {
@@ -4228,17 +4256,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -4325,18 +4353,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 0,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
@@ -4415,17 +4443,17 @@
       "status": "FINISHED",
       "bets": [
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -4505,15 +4533,15 @@
       "status": "FINISHED",
       "bets": [
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -4588,17 +4616,17 @@
       "status": "FINISHED",
       "bets": [
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -4678,17 +4706,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
           "points": 0
         },
         {
@@ -4782,17 +4810,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -4886,15 +4914,15 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 1,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 1,
           "pa": 2,
           "points": 1
@@ -4983,18 +5011,18 @@
           "points": 2
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -5087,18 +5115,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 4,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -5191,15 +5219,15 @@
           "points": 2
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 2
         },
         {
-          "telegram_id": 195828871,
-          "name": "Паша Федоров",
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
           "ph": 2,
           "pa": 1,
           "points": 2
@@ -5295,18 +5323,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 2,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -5399,17 +5427,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -5496,17 +5524,17 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 3,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -5593,18 +5621,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 0,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -5683,18 +5711,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -5780,18 +5808,18 @@
           "points": 3
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -5870,18 +5898,18 @@
           "points": 0
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -5946,18 +5974,18 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -6036,17 +6064,17 @@
           "points": 1
         },
         {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 3,
           "points": 1
         },
         {
@@ -6103,76 +6131,76 @@
       "kickoff_utc": "2026-06-25T01:00:00+00:00",
       "kickoff_msk": "25 июн 04:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 0,
-        "away": 2
+        "away": 3
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 1,
           "pa": 2,
-          "points": null
-        },
-        {
-          "telegram_id": 384182411,
-          "name": "Николай Толли",
-          "ph": 1,
-          "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 0,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 1,
           "pa": 3,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 9
@@ -6186,69 +6214,69 @@
       "kickoff_utc": "2026-06-25T01:00:00+00:00",
       "kickoff_msk": "25 июн 04:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 1,
         "away": 0
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 1,
           "pa": 3,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 3,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": -1
         }
       ],
       "bets_count": 8
@@ -7056,17 +7084,17 @@
   ],
   "totals": {
     "226981762": 55,
+    "195828871": 49,
     "384182411": 48,
-    "195828871": 48,
-    "1382936284": 43,
+    "1382936284": 42,
     "329891536": 42,
     "159916305": 41,
-    "115820189": 41,
+    "115820189": 40,
     "213115416": 38,
     "285818716": 35,
-    "101254951": 33,
-    "362589424": 29,
-    "142503209": 24
+    "101254951": 32,
+    "362589424": 28,
+    "142503209": 23
   },
   "source": {
     "name": "API-Football",
