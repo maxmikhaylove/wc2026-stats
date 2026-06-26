@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-26T19:04:13.692032+00:00",
-  "updated_msk": "26 июн 22:04",
+  "updated_utc": "2026-06-26T19:14:13.695962+00:00",
+  "updated_msk": "26 июн 22:14",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -6924,7 +6924,7 @@
       "finished": false,
       "revealed": true,
       "score": null,
-      "status": "TIMED",
+      "status": "LIVE",
       "bets": [
         {
           "telegram_id": 195828871,
@@ -6997,7 +6997,7 @@
       "finished": false,
       "revealed": true,
       "score": null,
-      "status": "TIMED",
+      "status": "LIVE",
       "bets": [
         {
           "telegram_id": 195828871,
@@ -7145,7 +7145,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 3
+      "bets_count": 4
     },
     {
       "match_no": 69,
@@ -7161,7 +7161,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 70,
@@ -7177,7 +7177,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 71,
@@ -7193,7 +7193,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 72,
@@ -7209,14 +7209,14 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 73,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "South Africa",
+      "away": "Canada",
       "kickoff_utc": "2026-06-28T19:00:00+00:00",
       "kickoff_msk": "28 июн 22:00",
       "started": false,
@@ -7231,8 +7231,8 @@
       "match_no": 74,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Brazil",
+      "away": "Japan",
       "kickoff_utc": "2026-06-29T17:00:00+00:00",
       "kickoff_msk": "29 июн 20:00",
       "started": false,
@@ -7247,7 +7247,7 @@
       "match_no": 75,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Germany",
       "away": "TBD",
       "kickoff_utc": "2026-06-29T20:30:00+00:00",
       "kickoff_msk": "29 июн 23:30",
@@ -7263,8 +7263,8 @@
       "match_no": 76,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Netherlands",
+      "away": "Morocco",
       "kickoff_utc": "2026-06-30T01:00:00+00:00",
       "kickoff_msk": "30 июн 04:00",
       "started": false,
@@ -7311,7 +7311,7 @@
       "match_no": 79,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Mexico",
       "away": "TBD",
       "kickoff_utc": "2026-07-01T01:00:00+00:00",
       "kickoff_msk": "1 июл 04:00",
@@ -7359,8 +7359,8 @@
       "match_no": 82,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "United States",
+      "away": "Bosnia-Herzegovina",
       "kickoff_utc": "2026-07-02T00:00:00+00:00",
       "kickoff_msk": "2 июл 03:00",
       "started": false,
@@ -7407,7 +7407,7 @@
       "match_no": 85,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Switzerland",
       "away": "TBD",
       "kickoff_utc": "2026-07-03T03:00:00+00:00",
       "kickoff_msk": "3 июл 06:00",
@@ -7423,7 +7423,7 @@
       "match_no": 86,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Australia",
       "away": "TBD",
       "kickoff_utc": "2026-07-03T18:00:00+00:00",
       "kickoff_msk": "3 июл 21:00",
@@ -7439,7 +7439,7 @@
       "match_no": 87,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Argentina",
       "away": "TBD",
       "kickoff_utc": "2026-07-03T22:00:00+00:00",
       "kickoff_msk": "4 июл 01:00",
