@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-27T04:55:13.164179+00:00",
-  "updated_msk": "27 июн 07:55",
+  "updated_utc": "2026-06-27T05:04:13.655791+00:00",
+  "updated_msk": "27 июн 08:04",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -29,43 +29,43 @@
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 47,
+      "total": 48,
       "rank": 5
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 45,
+      "total": 46,
       "rank": 6
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 45,
+      "total": 46,
       "rank": 6
     },
     {
       "telegram_id": 285818716,
       "name": "Алексей",
-      "total": 41,
+      "total": 42,
       "rank": 8
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 39,
+      "total": 40,
       "rank": 9
     },
     {
       "telegram_id": 101254951,
       "name": "Dmitriy S",
-      "total": 34,
+      "total": 35,
       "rank": 10
     },
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 31,
+      "total": 32,
       "rank": 11
     },
     {
@@ -140,7 +140,8 @@
       "№61",
       "№62",
       "№63",
-      "№64"
+      "№64",
+      "№65"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -206,7 +207,8 @@
       "Norway–France 1:4",
       "Senegal–Iraq 5:0",
       "Uruguay–Spain 0:1",
-      "Cape Verde Islands–Saudi Arabia 0:0"
+      "Cape Verde Islands–Saudi Arabia 0:0",
+      "New Zealand–Belgium 1:5"
     ],
     "series": [
       {
@@ -271,6 +273,7 @@
           55,
           56,
           56,
+          55,
           55,
           55,
           55,
@@ -347,6 +350,7 @@
           54,
           55,
           55,
+          55,
           55
         ],
         "total": 55
@@ -418,6 +422,7 @@
           49,
           50,
           51,
+          52,
           52
         ],
         "total": 52
@@ -485,6 +490,7 @@
           50,
           50,
           50,
+          51,
           51,
           51,
           51,
@@ -560,9 +566,10 @@
           45,
           46,
           47,
-          47
+          47,
+          48
         ],
-        "total": 47
+        "total": 48
       },
       {
         "name": "Max Mikhaylov",
@@ -631,9 +638,10 @@
           45,
           46,
           45,
-          45
+          45,
+          46
         ],
-        "total": 45
+        "total": 46
       },
       {
         "name": "Саша Березин",
@@ -702,9 +710,10 @@
           44,
           44,
           45,
-          45
+          45,
+          46
         ],
-        "total": 45
+        "total": 46
       },
       {
         "name": "Алексей",
@@ -773,9 +782,10 @@
           39,
           40,
           41,
-          41
+          41,
+          42
         ],
-        "total": 41
+        "total": 42
       },
       {
         "name": "Фил Чирков",
@@ -844,9 +854,10 @@
           38,
           39,
           39,
-          39
+          39,
+          40
         ],
-        "total": 39
+        "total": 40
       },
       {
         "name": "Dmitriy S",
@@ -915,9 +926,10 @@
           32,
           32,
           34,
-          34
+          34,
+          35
         ],
-        "total": 34
+        "total": 35
       },
       {
         "name": "Marach",
@@ -986,9 +998,10 @@
           30,
           31,
           31,
-          31
+          31,
+          32
         ],
-        "total": 31
+        "total": 32
       },
       {
         "name": "Наиль Гайнуллов",
@@ -1054,6 +1067,7 @@
           23,
           23,
           23,
+          24,
           24,
           24,
           24,
@@ -7274,69 +7288,69 @@
       "kickoff_utc": "2026-06-27T03:00:00+00:00",
       "kickoff_msk": "27 июн 06:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 1,
-        "away": 4
+        "away": 5
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 4,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 0,
           "pa": 3,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 101254951,
           "name": "Dmitriy S",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
           "pa": 2,
-          "points": null
+          "points": 1
         }
       ],
       "bets_count": 8
@@ -7354,7 +7368,7 @@
       "revealed": true,
       "score": {
         "home": 1,
-        "away": 1
+        "away": 2
       },
       "status": "IN_PLAY",
       "bets": [
@@ -8031,13 +8045,13 @@
     "195828871": 55,
     "159916305": 52,
     "384182411": 51,
-    "1382936284": 47,
-    "329891536": 45,
-    "115820189": 45,
-    "285818716": 41,
-    "213115416": 39,
-    "101254951": 34,
-    "362589424": 31,
+    "1382936284": 48,
+    "329891536": 46,
+    "115820189": 46,
+    "285818716": 42,
+    "213115416": 40,
+    "101254951": 35,
+    "362589424": 32,
     "142503209": 24
   },
   "source": {
