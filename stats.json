@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-27T20:55:13.174668+00:00",
-  "updated_msk": "27 июн 23:55",
+  "updated_utc": "2026-06-27T21:04:13.640160+00:00",
+  "updated_msk": "28 июн 00:04",
   "participants": [
     {
       "telegram_id": 226981762,
@@ -17,7 +17,7 @@
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 52,
+      "total": 53,
       "rank": 3
     },
     {
@@ -29,43 +29,43 @@
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 48,
+      "total": 49,
       "rank": 5
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 45,
+      "total": 46,
       "rank": 6
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 45,
+      "total": 46,
       "rank": 6
-    },
-    {
-      "telegram_id": 285818716,
-      "name": "Алексей",
-      "total": 41,
-      "rank": 8
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 40,
+      "total": 43,
+      "rank": 8
+    },
+    {
+      "telegram_id": 285818716,
+      "name": "Алексей",
+      "total": 42,
       "rank": 9
     },
     {
       "telegram_id": 101254951,
       "name": "Dmitriy S",
-      "total": 34,
+      "total": 35,
       "rank": 10
     },
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 31,
+      "total": 32,
       "rank": 11
     },
     {
@@ -210,7 +210,7 @@
       "Uruguay–Spain 0:1",
       "Cape Verde Islands–Saudi Arabia 0:0",
       "New Zealand–Belgium 1:5",
-      "Egypt–Iran 1:2"
+      "Egypt–Iran 1:1"
     ],
     "series": [
       {
@@ -428,9 +428,9 @@
           51,
           52,
           52,
-          52
+          53
         ],
-        "total": 52
+        "total": 53
       },
       {
         "name": "Николай Толли",
@@ -574,9 +574,9 @@
           47,
           47,
           48,
-          48
+          49
         ],
-        "total": 48
+        "total": 49
       },
       {
         "name": "Max Mikhaylov",
@@ -647,9 +647,9 @@
           45,
           45,
           46,
-          45
+          46
         ],
-        "total": 45
+        "total": 46
       },
       {
         "name": "Саша Березин",
@@ -720,86 +720,13 @@
           45,
           45,
           46,
-          45
+          46
         ],
-        "total": 45
-      },
-      {
-        "name": "Алексей",
-        "color": "#5856D6",
-        "cumulative": [
-          0,
-          -1,
-          -1,
-          0,
-          0,
-          3,
-          4,
-          3,
-          4,
-          4,
-          4,
-          5,
-          5,
-          5,
-          5,
-          5,
-          6,
-          7,
-          8,
-          11,
-          11,
-          13,
-          14,
-          16,
-          16,
-          17,
-          18,
-          18,
-          21,
-          22,
-          23,
-          22,
-          23,
-          24,
-          24,
-          25,
-          26,
-          26,
-          26,
-          28,
-          31,
-          32,
-          33,
-          34,
-          35,
-          35,
-          35,
-          35,
-          35,
-          35,
-          35,
-          35,
-          35,
-          35,
-          34,
-          35,
-          36,
-          36,
-          38,
-          38,
-          39,
-          40,
-          41,
-          41,
-          42,
-          41
-        ],
-        "total": 41
+        "total": 46
       },
       {
         "name": "Фил Чирков",
-        "color": "#FFCC00",
+        "color": "#5856D6",
         "cumulative": [
           3,
           3,
@@ -866,9 +793,82 @@
           39,
           39,
           40,
-          40
+          43
         ],
-        "total": 40
+        "total": 43
+      },
+      {
+        "name": "Алексей",
+        "color": "#FFCC00",
+        "cumulative": [
+          0,
+          -1,
+          -1,
+          0,
+          0,
+          3,
+          4,
+          3,
+          4,
+          4,
+          4,
+          5,
+          5,
+          5,
+          5,
+          5,
+          6,
+          7,
+          8,
+          11,
+          11,
+          13,
+          14,
+          16,
+          16,
+          17,
+          18,
+          18,
+          21,
+          22,
+          23,
+          22,
+          23,
+          24,
+          24,
+          25,
+          26,
+          26,
+          26,
+          28,
+          31,
+          32,
+          33,
+          34,
+          35,
+          35,
+          35,
+          35,
+          35,
+          35,
+          35,
+          35,
+          35,
+          35,
+          34,
+          35,
+          36,
+          36,
+          38,
+          38,
+          39,
+          40,
+          41,
+          41,
+          42,
+          42
+        ],
+        "total": 42
       },
       {
         "name": "Dmitriy S",
@@ -939,9 +939,9 @@
           34,
           34,
           35,
-          34
+          35
         ],
-        "total": 34
+        "total": 35
       },
       {
         "name": "Marach",
@@ -1012,9 +1012,9 @@
           31,
           31,
           32,
-          31
+          32
         ],
-        "total": 31
+        "total": 32
       },
       {
         "name": "Наиль Гайнуллов",
@@ -1159,18 +1159,18 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 101254951,
@@ -1263,18 +1263,18 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         },
         {
           "telegram_id": 101254951,
@@ -1367,18 +1367,18 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 101254951,
@@ -1471,15 +1471,15 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -1575,17 +1575,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 4,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
           "points": 0
         },
         {
@@ -1679,18 +1679,18 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 101254951,
@@ -1783,17 +1783,17 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
           "points": 1
         },
         {
@@ -1887,17 +1887,17 @@
           "points": -1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 3,
           "points": -1
         },
         {
@@ -1991,16 +1991,16 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 7,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 4,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 4,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 7,
           "pa": 0,
           "points": 1
         },
@@ -2095,17 +2095,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -2199,17 +2199,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 1,
           "points": 0
         },
         {
@@ -2303,17 +2303,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -2407,16 +2407,16 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 6,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 4,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 6,
           "pa": 0,
           "points": 0
         },
@@ -2511,16 +2511,16 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 3,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
           "pa": 1,
           "points": 0
         },
@@ -2608,17 +2608,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 2,
           "points": 0
         },
         {
@@ -2712,16 +2712,16 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 2,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
           "pa": 0,
           "points": 0
         },
@@ -2816,17 +2816,17 @@
           "points": 2
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 3,
+          "pa": 0,
           "points": 1
         },
         {
@@ -2920,17 +2920,17 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
           "points": 1
         },
         {
@@ -3024,15 +3024,15 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 2,
           "pa": 0,
           "points": 1
@@ -3128,18 +3128,18 @@
           "points": 2
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 101254951,
@@ -3232,17 +3232,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 6,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 6,
+          "pa": 0,
           "points": 0
         },
         {
@@ -3336,18 +3336,18 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 101254951,
@@ -3440,18 +3440,18 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -3544,18 +3544,18 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 2,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 2,
+          "points": 2
         },
         {
           "telegram_id": 362589424,
@@ -3641,17 +3641,17 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -3745,18 +3745,18 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -3849,17 +3849,17 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -3953,18 +3953,18 @@
           "points": -1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 101254951,
@@ -4057,18 +4057,18 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 101254951,
@@ -4154,17 +4154,17 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 3,
           "points": 1
         },
         {
@@ -4258,18 +4258,18 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 5,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 5,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -4362,18 +4362,18 @@
           "points": -1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 3,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 101254951,
@@ -4466,15 +4466,15 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -4563,16 +4563,16 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 6,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 3,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 6,
           "pa": 0,
           "points": 1
         },
@@ -4653,17 +4653,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -4743,15 +4743,15 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -4916,16 +4916,16 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 4,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 2,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
@@ -5020,15 +5020,15 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -5124,15 +5124,15 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 2
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 0,
           "pa": 2,
           "points": 2
@@ -5221,18 +5221,18 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 101254951,
@@ -5325,18 +5325,18 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 5,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 5,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -5429,18 +5429,18 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 3,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -5533,18 +5533,18 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -5637,16 +5637,16 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 4,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 2,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 4,
           "pa": 0,
           "points": 1
         },
@@ -6516,17 +6516,17 @@
           "points": -1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 3,
           "points": -1
         },
         {
@@ -6613,18 +6613,18 @@
           "points": 3
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 362589424,
@@ -6710,15 +6710,15 @@
           "points": 2
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 285818716,
+          "name": "Алексей",
           "ph": 0,
           "pa": 3,
           "points": 1
@@ -6800,16 +6800,16 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
           "pa": 2,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 3,
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
           "pa": 2,
           "points": 0
         },
@@ -6883,18 +6883,18 @@
           "points": -1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 362589424,
@@ -6966,17 +6966,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -7042,18 +7042,18 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 362589424,
@@ -7118,17 +7118,17 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
           "points": 1
         },
         {
@@ -7187,18 +7187,18 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -7263,17 +7263,17 @@
           "points": 0
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 1,
+          "pa": 0,
           "points": 0
         },
         {
@@ -7339,17 +7339,17 @@
           "points": 1
         },
         {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 3,
           "points": 1
         },
         {
@@ -7382,7 +7382,7 @@
       "revealed": true,
       "score": {
         "home": 1,
-        "away": 2
+        "away": 1
       },
       "status": "FINISHED",
       "bets": [
@@ -7391,40 +7391,40 @@
           "name": "Антон Борисенко",
           "ph": 2,
           "pa": 2,
-          "points": 0
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 0,
           "pa": 0,
-          "points": 0
+          "points": 1
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
-          "points": -1
+          "points": 0
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
           "pa": 0,
-          "points": -1
-        },
-        {
-          "telegram_id": 285818716,
-          "name": "Алексей",
-          "ph": 2,
-          "pa": 1,
-          "points": -1
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
+          "pa": 1,
+          "points": 3
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
           "pa": 1,
           "points": 0
         },
@@ -7433,14 +7433,14 @@
           "name": "Dmitriy S",
           "ph": 2,
           "pa": 1,
-          "points": -1
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
           "pa": 1,
-          "points": -1
+          "points": 0
         }
       ],
       "bets_count": 8
@@ -7453,12 +7453,90 @@
       "away": "England",
       "kickoff_utc": "2026-06-27T21:00:00+00:00",
       "kickoff_msk": "28 июн 00:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
+      "bets": [
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 0,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 0,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 4,
+          "points": null
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 0,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 4,
+          "points": null
+        },
+        {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 3,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 0,
+          "pa": 6,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 0,
+          "pa": 3,
+          "points": null
+        }
+      ],
       "bets_count": 11
     },
     {
@@ -7469,12 +7547,90 @@
       "away": "Ghana",
       "kickoff_utc": "2026-06-27T21:00:00+00:00",
       "kickoff_msk": "28 июн 00:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
+      "bets": [
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 0,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 101254951,
+          "name": "Dmitriy S",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 3,
+          "pa": 0,
+          "points": null
+        }
+      ],
       "bets_count": 11
     },
     {
@@ -7609,7 +7765,7 @@
       "match_no": 77,
       "stage": "LAST_32",
       "group": null,
-      "home": "TBD",
+      "home": "Ivory Coast",
       "away": "TBD",
       "kickoff_utc": "2026-06-30T17:00:00+00:00",
       "kickoff_msk": "30 июн 20:00",
@@ -8057,15 +8213,15 @@
   "totals": {
     "226981762": 55,
     "195828871": 55,
-    "159916305": 52,
+    "159916305": 53,
     "384182411": 51,
-    "1382936284": 48,
-    "329891536": 45,
-    "115820189": 45,
-    "285818716": 41,
-    "213115416": 40,
-    "101254951": 34,
-    "362589424": 31,
+    "1382936284": 49,
+    "329891536": 46,
+    "115820189": 46,
+    "213115416": 43,
+    "285818716": 42,
+    "101254951": 35,
+    "362589424": 32,
     "142503209": 24
   },
   "source": {
