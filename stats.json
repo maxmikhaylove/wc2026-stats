@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-28T13:55:13.168253+00:00",
-  "updated_msk": "28 июн 16:55",
+  "updated_utc": "2026-06-28T14:55:13.175586+00:00",
+  "updated_msk": "28 июн 17:55",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -8111,7 +8111,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 8
+      "bets_count": 9
     },
     {
       "match_no": 74,
@@ -8127,7 +8127,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 5
+      "bets_count": 6
     },
     {
       "match_no": 75,
@@ -8143,7 +8143,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 3
+      "bets_count": 4
     },
     {
       "match_no": 76,
@@ -8159,7 +8159,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 77,
