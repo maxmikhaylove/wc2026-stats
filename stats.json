@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-06-28T10:55:13.173987+00:00",
-  "updated_msk": "28 июн 13:55",
+  "updated_utc": "2026-06-28T11:55:13.168775+00:00",
+  "updated_msk": "28 июн 14:55",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -8143,7 +8143,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 76,
