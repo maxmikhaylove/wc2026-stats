@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-01T19:28:34.597107+00:00",
-  "updated_msk": "1 июл 22:28",
+  "updated_utc": "2026-07-01T20:07:35.295584+00:00",
+  "updated_msk": "1 июл 23:07",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -8713,12 +8713,30 @@
       "away": "Senegal",
       "kickoff_utc": "2026-07-01T20:00:00+00:00",
       "kickoff_msk": "1 июл 23:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
-      "score": null,
-      "status": "TIMED",
-      "bets": [],
+      "revealed": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "IN_PLAY",
+      "bets": [
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 3,
+          "points": null
+        }
+      ],
       "bets_count": 2
     },
     {
@@ -8735,7 +8753,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 83,
@@ -8751,7 +8769,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 84,
@@ -8767,7 +8785,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 2
+      "bets_count": 3
     },
     {
       "match_no": 85,
