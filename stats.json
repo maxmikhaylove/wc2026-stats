@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-02T07:40:01.807856+00:00",
-  "updated_msk": "2 июл 10:40",
+  "updated_utc": "2026-07-02T07:47:58.466504+00:00",
+  "updated_msk": "2 июл 10:47",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -4716,9 +4716,16 @@
           "ph": 2,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         }
       ],
-      "bets_count": 11
+      "bets_count": 12
     },
     {
       "match_no": 34,
@@ -9601,7 +9608,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 8
+      "bets_count": 9
     },
     {
       "match_no": 85,
@@ -9617,7 +9624,7 @@
       "score": null,
       "status": "TIMED",
       "bets": [],
-      "bets_count": 7
+      "bets_count": 8
     },
     {
       "match_no": 86,
