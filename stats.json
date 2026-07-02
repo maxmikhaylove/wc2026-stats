@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-01T23:28:34.602600+00:00",
-  "updated_msk": "2 июл 02:28",
+  "updated_utc": "2026-07-02T00:07:35.112595+00:00",
+  "updated_msk": "2 июл 03:07",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -8761,12 +8761,37 @@
       "away": "Bosnia-Herzegovina",
       "kickoff_utc": "2026-07-02T00:00:00+00:00",
       "kickoff_msk": "2 июл 03:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
-      "score": null,
-      "status": "TIMED",
-      "bets": [],
+      "revealed": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "IN_PLAY",
+      "bets": [
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        }
+      ],
       "bets_count": 3
     },
     {
