@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-03T01:11:37.190138+00:00",
-  "updated_msk": "3 июл 04:11",
+  "updated_utc": "2026-07-03T01:21:37.220998+00:00",
+  "updated_msk": "3 июл 04:21",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11,13 +11,13 @@
     {
       "telegram_id": 226981762,
       "name": "Оля Кепински",
-      "total": 80,
+      "total": 83,
       "rank": 2
     },
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 77,
+      "total": 78,
       "rank": 3
     },
     {
@@ -35,26 +35,26 @@
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 67,
+      "total": 68,
       "rank": 6
+    },
+    {
+      "telegram_id": 213115416,
+      "name": "Фил Чирков",
+      "total": 66,
+      "rank": 7
     },
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
       "total": 65,
-      "rank": 7
-    },
-    {
-      "telegram_id": 213115416,
-      "name": "Фил Чирков",
-      "total": 65,
-      "rank": 7
+      "rank": 8
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 64,
-      "rank": 9
+      "total": 65,
+      "rank": 8
     },
     {
       "telegram_id": 142503209,
@@ -159,7 +159,8 @@
       "№80",
       "№81",
       "№82",
-      "№83"
+      "№83",
+      "№84"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -244,7 +245,8 @@
       "England–Congo DR 2:1",
       "Belgium–Senegal 2:2",
       "United States–Bosnia-Herzegovina 2:0",
-      "Spain–Austria 3:0"
+      "Spain–Austria 3:0",
+      "Portugal–Croatia 2:2"
     ],
     "series": [
       {
@@ -333,6 +335,7 @@
           81,
           81,
           84,
+          85,
           85
         ],
         "total": 85
@@ -423,9 +426,10 @@
           77,
           78,
           79,
-          80
+          80,
+          83
         ],
-        "total": 80
+        "total": 83
       },
       {
         "name": "Николай Толли",
@@ -513,9 +517,10 @@
           75,
           75,
           76,
-          77
+          77,
+          78
         ],
-        "total": 77
+        "total": 78
       },
       {
         "name": "Алексей",
@@ -603,6 +608,7 @@
           65,
           65,
           68,
+          69,
           69
         ],
         "total": 69
@@ -693,6 +699,7 @@
           65,
           65,
           68,
+          69,
           69
         ],
         "total": 69
@@ -783,103 +790,14 @@
           64,
           65,
           66,
-          67
+          67,
+          68
         ],
-        "total": 67
-      },
-      {
-        "name": "Artur A",
-        "color": "#FF2D55",
-        "cumulative": [
-          1,
-          1,
-          4,
-          5,
-          5,
-          5,
-          6,
-          5,
-          7,
-          8,
-          8,
-          9,
-          9,
-          9,
-          9,
-          9,
-          10,
-          13,
-          12,
-          15,
-          15,
-          15,
-          14,
-          16,
-          16,
-          17,
-          18,
-          20,
-          21,
-          22,
-          23,
-          22,
-          22,
-          25,
-          25,
-          26,
-          27,
-          27,
-          28,
-          30,
-          32,
-          33,
-          33,
-          34,
-          35,
-          35,
-          36,
-          39,
-          40,
-          41,
-          42,
-          43,
-          43,
-          42,
-          41,
-          42,
-          43,
-          43,
-          42,
-          43,
-          45,
-          46,
-          47,
-          47,
-          48,
-          49,
-          50,
-          52,
-          52,
-          53,
-          54,
-          55,
-          57,
-          60,
-          60,
-          60,
-          59,
-          61,
-          61,
-          63,
-          63,
-          64,
-          65
-        ],
-        "total": 65
+        "total": 68
       },
       {
         "name": "Фил Чирков",
-        "color": "#5856D6",
+        "color": "#FF2D55",
         "cumulative": [
           3,
           3,
@@ -963,6 +881,98 @@
           61,
           62,
           64,
+          65,
+          66
+        ],
+        "total": 66
+      },
+      {
+        "name": "Artur A",
+        "color": "#5856D6",
+        "cumulative": [
+          1,
+          1,
+          4,
+          5,
+          5,
+          5,
+          6,
+          5,
+          7,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          13,
+          12,
+          15,
+          15,
+          15,
+          14,
+          16,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22,
+          23,
+          22,
+          22,
+          25,
+          25,
+          26,
+          27,
+          27,
+          28,
+          30,
+          32,
+          33,
+          33,
+          34,
+          35,
+          35,
+          36,
+          39,
+          40,
+          41,
+          42,
+          43,
+          43,
+          42,
+          41,
+          42,
+          43,
+          43,
+          42,
+          43,
+          45,
+          46,
+          47,
+          47,
+          48,
+          49,
+          50,
+          52,
+          52,
+          53,
+          54,
+          55,
+          57,
+          60,
+          60,
+          60,
+          59,
+          61,
+          61,
+          63,
+          63,
+          64,
+          65,
           65
         ],
         "total": 65
@@ -1053,9 +1063,10 @@
           62,
           62,
           63,
-          64
+          64,
+          65
         ],
-        "total": 64
+        "total": 65
       },
       {
         "name": "Наиль Гайнуллов",
@@ -1143,6 +1154,7 @@
           38,
           38,
           39,
+          40,
           40
         ],
         "total": 40
@@ -1223,6 +1235,7 @@
           36,
           35,
           36,
+          38,
           38,
           38,
           38,
@@ -1323,6 +1336,7 @@
           39,
           39,
           38,
+          38,
           38
         ],
         "total": 38
@@ -1390,18 +1404,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -1494,15 +1508,15 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -1598,18 +1612,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 329891536,
@@ -1702,15 +1716,15 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -1806,17 +1820,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 5,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 5,
           "points": 0
         },
         {
@@ -1910,16 +1924,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 3,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
           "pa": 1,
           "points": 0
         },
@@ -2014,15 +2028,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -2118,17 +2132,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": -1
         },
         {
@@ -2222,18 +2236,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 6,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 4,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 6,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -2326,18 +2340,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -2430,15 +2444,15 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 0,
           "points": 0
@@ -2534,17 +2548,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -2638,16 +2652,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 4,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
@@ -2742,17 +2756,17 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
           "points": 0
         },
         {
@@ -2839,17 +2853,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 2,
           "points": 0
         },
         {
@@ -2943,15 +2957,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -3047,17 +3061,17 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
           "points": 1
         },
         {
@@ -3151,18 +3165,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 4,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 4,
+          "points": 3
         },
         {
           "telegram_id": 329891536,
@@ -3255,18 +3269,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         },
         {
           "telegram_id": 329891536,
@@ -3359,18 +3373,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 329891536,
@@ -3463,17 +3477,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
           "points": 0
         },
         {
@@ -3567,17 +3581,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
           "points": 0
         },
         {
@@ -3671,18 +3685,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 329891536,
@@ -3775,18 +3789,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 2,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 2,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -3872,15 +3886,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -3976,18 +3990,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -4080,16 +4094,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 2,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
@@ -4184,17 +4198,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
+          "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 2
         },
         {
@@ -4288,18 +4302,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -4385,17 +4399,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": 1
         },
         {
@@ -4489,18 +4503,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -4593,18 +4607,18 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 329891536,
@@ -4697,18 +4711,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
@@ -4801,18 +4815,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 329891536,
@@ -4905,17 +4919,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -5009,17 +5023,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": 1
         },
         {
@@ -5210,17 +5224,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 1,
           "points": 0
         },
         {
@@ -5314,18 +5328,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -5418,15 +5432,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 2
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 2
@@ -5515,15 +5529,15 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 3,
           "pa": 1,
           "points": 2
@@ -5619,18 +5633,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 5,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 5,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -5723,18 +5737,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
@@ -5827,18 +5841,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -5931,17 +5945,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 1,
           "points": 1
         },
         {
@@ -6035,16 +6049,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 3,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
           "pa": 0,
           "points": 0
         },
@@ -6139,18 +6153,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -6243,18 +6257,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 329891536,
@@ -6347,18 +6361,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -6444,15 +6458,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 0,
           "points": 1
@@ -6548,18 +6562,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -6652,15 +6666,15 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 3,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 3,
           "points": 1
@@ -6756,18 +6770,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
@@ -6860,17 +6874,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": -1
         },
         {
@@ -6964,17 +6978,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 1,
           "points": -1
         },
         {
@@ -7061,18 +7075,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -7158,17 +7172,17 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 4,
           "points": 1
         },
         {
@@ -7255,15 +7269,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 3,
           "pa": 2,
           "points": 0
@@ -7345,18 +7359,18 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         },
         {
           "telegram_id": 329891536,
@@ -7435,18 +7449,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -7532,18 +7546,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -7629,17 +7643,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 0,
           "points": 1
         },
         {
@@ -7719,18 +7733,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -7816,15 +7830,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -7913,17 +7927,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 4,
           "points": 1
         },
         {
@@ -8010,18 +8024,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -8107,18 +8121,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -8211,18 +8225,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -8308,17 +8322,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 3,
           "points": 0
         },
         {
@@ -8405,18 +8419,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -8502,15 +8516,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 4,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 4,
           "points": 1
@@ -8599,17 +8613,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
           "points": 1
         },
         {
@@ -8696,18 +8710,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 3,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -8793,18 +8807,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 329891536,
@@ -8890,17 +8904,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -8987,18 +9001,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
@@ -9077,18 +9091,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 3,
+          "points": -1
         },
         {
           "telegram_id": 329891536,
@@ -9167,18 +9181,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -9264,18 +9278,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
@@ -9361,18 +9375,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 329891536,
@@ -9458,18 +9472,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 3,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
@@ -9555,18 +9569,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 329891536,
@@ -9652,17 +9666,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 0,
           "points": 1
         },
         {
@@ -9698,90 +9712,90 @@
       "kickoff_utc": "2026-07-02T23:00:00+00:00",
       "kickoff_msk": "3 июл 02:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 2,
         "away": 2
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
           "pa": 0,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 1,
           "pa": 1,
-          "points": null
-        },
-        {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 11
@@ -10109,14 +10123,14 @@
   ],
   "totals": {
     "195828871": 85,
-    "226981762": 80,
-    "384182411": 77,
+    "226981762": 83,
+    "384182411": 78,
     "285818716": 69,
     "115820189": 69,
-    "159916305": 67,
+    "159916305": 68,
+    "213115416": 66,
     "1382936284": 65,
-    "213115416": 65,
-    "329891536": 64,
+    "329891536": 65,
     "142503209": 40,
     "101254951": 38,
     "362589424": 38
