@@ -1,65 +1,65 @@
 {
-  "updated_utc": "2026-07-03T01:21:37.220998+00:00",
-  "updated_msk": "3 июл 04:21",
+  "updated_utc": "2026-07-03T01:30:01.002659+00:00",
+  "updated_msk": "3 июл 04:30",
   "participants": [
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 85,
+      "total": 88,
       "rank": 1
     },
     {
       "telegram_id": 226981762,
       "name": "Оля Кепински",
-      "total": 83,
+      "total": 80,
       "rank": 2
     },
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 78,
+      "total": 77,
       "rank": 3
     },
     {
       "telegram_id": 285818716,
       "name": "Алексей",
-      "total": 69,
+      "total": 72,
       "rank": 4
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 69,
-      "rank": 4
+      "total": 71,
+      "rank": 5
     },
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 68,
+      "total": 67,
       "rank": 6
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 66,
+      "total": 65,
       "rank": 7
     },
     {
       "telegram_id": 1382936284,
       "name": "Artur A",
-      "total": 65,
+      "total": 64,
       "rank": 8
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 65,
+      "total": 64,
       "rank": 8
     },
     {
       "telegram_id": 142503209,
       "name": "Наиль Гайнуллов",
-      "total": 40,
+      "total": 39,
       "rank": 10
     },
     {
@@ -71,8 +71,8 @@
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 38,
-      "rank": 11
+      "total": 37,
+      "rank": 12
     }
   ],
   "progression": {
@@ -246,7 +246,7 @@
       "Belgium–Senegal 2:2",
       "United States–Bosnia-Herzegovina 2:0",
       "Spain–Austria 3:0",
-      "Portugal–Croatia 2:2"
+      "Portugal–Croatia 2:1"
     ],
     "series": [
       {
@@ -336,9 +336,9 @@
           81,
           84,
           85,
-          85
+          88
         ],
-        "total": 85
+        "total": 88
       },
       {
         "name": "Оля Кепински",
@@ -427,9 +427,9 @@
           78,
           79,
           80,
-          83
+          80
         ],
-        "total": 83
+        "total": 80
       },
       {
         "name": "Николай Толли",
@@ -518,9 +518,9 @@
           75,
           76,
           77,
-          78
+          77
         ],
-        "total": 78
+        "total": 77
       },
       {
         "name": "Алексей",
@@ -609,9 +609,9 @@
           65,
           68,
           69,
-          69
+          72
         ],
-        "total": 69
+        "total": 72
       },
       {
         "name": "Саша Березин",
@@ -700,9 +700,9 @@
           65,
           68,
           69,
-          69
+          71
         ],
-        "total": 69
+        "total": 71
       },
       {
         "name": "Антон Борисенко",
@@ -791,9 +791,9 @@
           65,
           66,
           67,
-          68
+          67
         ],
-        "total": 68
+        "total": 67
       },
       {
         "name": "Фил Чирков",
@@ -882,9 +882,9 @@
           62,
           64,
           65,
-          66
+          65
         ],
-        "total": 66
+        "total": 65
       },
       {
         "name": "Artur A",
@@ -973,9 +973,9 @@
           63,
           64,
           65,
-          65
+          64
         ],
-        "total": 65
+        "total": 64
       },
       {
         "name": "Max Mikhaylov",
@@ -1064,9 +1064,9 @@
           62,
           63,
           64,
-          65
+          64
         ],
-        "total": 65
+        "total": 64
       },
       {
         "name": "Наиль Гайнуллов",
@@ -1155,9 +1155,9 @@
           38,
           39,
           40,
-          40
+          39
         ],
-        "total": 40
+        "total": 39
       },
       {
         "name": "Dmitriy S",
@@ -1337,9 +1337,9 @@
           39,
           38,
           38,
-          38
+          37
         ],
-        "total": 38
+        "total": 37
       }
     ]
   },
@@ -9716,7 +9716,7 @@
       "revealed": true,
       "score": {
         "home": 2,
-        "away": 2
+        "away": 1
       },
       "status": "FINISHED",
       "bets": [
@@ -9725,77 +9725,77 @@
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
-          "points": 0
+          "points": 3
         },
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 2,
           "pa": 2,
-          "points": 3
+          "points": 0
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 1,
-          "points": 1
+          "points": 0
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 2,
           "pa": 1,
-          "points": 0
+          "points": 3
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
           "pa": 0,
-          "points": 0
+          "points": 2
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 1,
           "pa": 1,
-          "points": 1
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
-          "points": 1
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 2,
-          "points": 0
+          "points": -1
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
-          "points": 1
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 1,
           "pa": 2,
-          "points": 0
+          "points": -1
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 1,
           "pa": 2,
-          "points": 0
+          "points": -1
         }
       ],
       "bets_count": 11
@@ -10122,18 +10122,18 @@
     }
   ],
   "totals": {
-    "195828871": 85,
-    "226981762": 83,
-    "384182411": 78,
-    "285818716": 69,
-    "115820189": 69,
-    "159916305": 68,
-    "213115416": 66,
-    "1382936284": 65,
-    "329891536": 65,
-    "142503209": 40,
+    "195828871": 88,
+    "226981762": 80,
+    "384182411": 77,
+    "285818716": 72,
+    "115820189": 71,
+    "159916305": 67,
+    "213115416": 65,
+    "1382936284": 64,
+    "329891536": 64,
+    "142503209": 39,
     "101254951": 38,
-    "362589424": 38
+    "362589424": 37
   },
   "source": {
     "name": "API-Football",
