@@ -1,17 +1,17 @@
 {
-  "updated_utc": "2026-07-03T04:51:37.306577+00:00",
-  "updated_msk": "3 июл 07:51",
+  "updated_utc": "2026-07-03T05:01:37.122862+00:00",
+  "updated_msk": "3 июл 08:01",
   "participants": [
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 88,
+      "total": 89,
       "rank": 1
     },
     {
       "telegram_id": 226981762,
       "name": "Оля Кепински",
-      "total": 80,
+      "total": 81,
       "rank": 2
     },
     {
@@ -23,38 +23,38 @@
     {
       "telegram_id": 285818716,
       "name": "Алексей",
-      "total": 72,
+      "total": 73,
       "rank": 4
     },
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 71,
+      "total": 72,
       "rank": 5
     },
     {
       "telegram_id": 159916305,
       "name": "Антон Борисенко",
-      "total": 67,
+      "total": 70,
       "rank": 6
     },
     {
       "telegram_id": 213115416,
       "name": "Фил Чирков",
-      "total": 65,
+      "total": 68,
       "rank": 7
-    },
-    {
-      "telegram_id": 1382936284,
-      "name": "Artur A",
-      "total": 64,
-      "rank": 8
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 64,
+      "total": 65,
       "rank": 8
+    },
+    {
+      "telegram_id": 1382936284,
+      "name": "Artur A",
+      "total": 63,
+      "rank": 9
     },
     {
       "telegram_id": 142503209,
@@ -71,8 +71,8 @@
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 37,
-      "rank": 12
+      "total": 38,
+      "rank": 11
     }
   ],
   "progression": {
@@ -160,7 +160,8 @@
       "№81",
       "№82",
       "№83",
-      "№84"
+      "№84",
+      "№85"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -246,7 +247,8 @@
       "Belgium–Senegal 2:2",
       "United States–Bosnia-Herzegovina 2:0",
       "Spain–Austria 3:0",
-      "Portugal–Croatia 2:1"
+      "Portugal–Croatia 2:1",
+      "Switzerland–Algeria 2:0"
     ],
     "series": [
       {
@@ -336,9 +338,10 @@
           81,
           84,
           85,
-          88
+          88,
+          89
         ],
-        "total": 88
+        "total": 89
       },
       {
         "name": "Оля Кепински",
@@ -427,9 +430,10 @@
           78,
           79,
           80,
-          80
+          80,
+          81
         ],
-        "total": 80
+        "total": 81
       },
       {
         "name": "Николай Толли",
@@ -517,6 +521,7 @@
           75,
           75,
           76,
+          77,
           77,
           77
         ],
@@ -609,9 +614,10 @@
           65,
           68,
           69,
-          72
+          72,
+          73
         ],
-        "total": 72
+        "total": 73
       },
       {
         "name": "Саша Березин",
@@ -700,9 +706,10 @@
           65,
           68,
           69,
-          71
+          71,
+          72
         ],
-        "total": 71
+        "total": 72
       },
       {
         "name": "Антон Борисенко",
@@ -791,9 +798,10 @@
           65,
           66,
           67,
-          67
+          67,
+          70
         ],
-        "total": 67
+        "total": 70
       },
       {
         "name": "Фил Чирков",
@@ -882,104 +890,14 @@
           62,
           64,
           65,
-          65
-        ],
-        "total": 65
-      },
-      {
-        "name": "Artur A",
-        "color": "#5856D6",
-        "cumulative": [
-          1,
-          1,
-          4,
-          5,
-          5,
-          5,
-          6,
-          5,
-          7,
-          8,
-          8,
-          9,
-          9,
-          9,
-          9,
-          9,
-          10,
-          13,
-          12,
-          15,
-          15,
-          15,
-          14,
-          16,
-          16,
-          17,
-          18,
-          20,
-          21,
-          22,
-          23,
-          22,
-          22,
-          25,
-          25,
-          26,
-          27,
-          27,
-          28,
-          30,
-          32,
-          33,
-          33,
-          34,
-          35,
-          35,
-          36,
-          39,
-          40,
-          41,
-          42,
-          43,
-          43,
-          42,
-          41,
-          42,
-          43,
-          43,
-          42,
-          43,
-          45,
-          46,
-          47,
-          47,
-          48,
-          49,
-          50,
-          52,
-          52,
-          53,
-          54,
-          55,
-          57,
-          60,
-          60,
-          60,
-          59,
-          61,
-          61,
-          63,
-          63,
-          64,
           65,
-          64
+          68
         ],
-        "total": 64
+        "total": 68
       },
       {
         "name": "Max Mikhaylov",
-        "color": "#FFCC00",
+        "color": "#5856D6",
         "cumulative": [
           1,
           1,
@@ -1064,9 +982,102 @@
           62,
           63,
           64,
-          64
+          64,
+          65
         ],
-        "total": 64
+        "total": 65
+      },
+      {
+        "name": "Artur A",
+        "color": "#FFCC00",
+        "cumulative": [
+          1,
+          1,
+          4,
+          5,
+          5,
+          5,
+          6,
+          5,
+          7,
+          8,
+          8,
+          9,
+          9,
+          9,
+          9,
+          9,
+          10,
+          13,
+          12,
+          15,
+          15,
+          15,
+          14,
+          16,
+          16,
+          17,
+          18,
+          20,
+          21,
+          22,
+          23,
+          22,
+          22,
+          25,
+          25,
+          26,
+          27,
+          27,
+          28,
+          30,
+          32,
+          33,
+          33,
+          34,
+          35,
+          35,
+          36,
+          39,
+          40,
+          41,
+          42,
+          43,
+          43,
+          42,
+          41,
+          42,
+          43,
+          43,
+          42,
+          43,
+          45,
+          46,
+          47,
+          47,
+          48,
+          49,
+          50,
+          52,
+          52,
+          53,
+          54,
+          55,
+          57,
+          60,
+          60,
+          60,
+          59,
+          61,
+          61,
+          63,
+          63,
+          64,
+          65,
+          64,
+          63
+        ],
+        "total": 63
       },
       {
         "name": "Наиль Гайнуллов",
@@ -1155,6 +1166,7 @@
           38,
           39,
           40,
+          39,
           39
         ],
         "total": 39
@@ -1235,6 +1247,7 @@
           36,
           35,
           36,
+          38,
           38,
           38,
           38,
@@ -1337,9 +1350,10 @@
           39,
           38,
           38,
-          37
+          37,
+          38
         ],
-        "total": 37
+        "total": 38
       }
     ]
   },
@@ -1411,17 +1425,17 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
           "points": 1
         },
         {
@@ -1515,15 +1529,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -1619,15 +1633,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 1,
           "points": 3
@@ -1723,17 +1737,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -1827,17 +1841,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 5,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 5,
           "points": 0
         },
         {
@@ -1931,17 +1945,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 0
         },
         {
@@ -2035,15 +2049,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -2139,17 +2153,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": -1
         },
         {
@@ -2243,18 +2257,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 6,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 4,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 6,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -2347,18 +2361,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -2451,18 +2465,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -2555,17 +2569,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
           "points": 1
         },
         {
@@ -2659,16 +2673,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 4,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
@@ -2763,16 +2777,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
           "pa": 0,
           "points": 0
         },
@@ -2860,15 +2874,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 0
@@ -2964,15 +2978,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -3068,18 +3082,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -3172,18 +3186,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 4,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 4,
+          "points": 3
         },
         {
           "telegram_id": 142503209,
@@ -3276,18 +3290,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         },
         {
           "telegram_id": 142503209,
@@ -3380,18 +3394,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 142503209,
@@ -3484,16 +3498,16 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 3,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
           "pa": 0,
           "points": 0
         },
@@ -3588,15 +3602,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -3692,18 +3706,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 142503209,
@@ -3796,15 +3810,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 2
@@ -3893,17 +3907,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 0
         },
         {
@@ -3997,18 +4011,18 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -4101,17 +4115,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 0,
           "points": 1
         },
         {
@@ -4205,18 +4219,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -4309,18 +4323,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -4406,18 +4420,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -4510,18 +4524,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 3,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -4614,15 +4628,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 1,
           "points": -1
@@ -4718,15 +4732,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 2,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 2,
           "points": 0
@@ -4822,18 +4836,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 3,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 142503209,
@@ -4926,15 +4940,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -5030,17 +5044,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": 1
         },
         {
@@ -5127,16 +5141,16 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
@@ -5231,17 +5245,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 1,
           "points": 0
         },
         {
@@ -5335,18 +5349,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -5439,15 +5453,15 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 0,
           "pa": 2,
           "points": 2
@@ -5536,18 +5550,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -5640,18 +5654,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 5,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 3,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 5,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -5744,18 +5758,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -5848,18 +5862,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -5952,17 +5966,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 1,
           "points": 1
         },
         {
@@ -6056,15 +6070,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -6160,18 +6174,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -6264,15 +6278,15 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 0,
           "points": 3
@@ -6368,18 +6382,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -6465,15 +6479,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 0,
           "points": 1
@@ -6569,18 +6583,18 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -6673,18 +6687,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 3,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -6777,18 +6791,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -6881,17 +6895,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
           "points": -1
         },
         {
@@ -6985,17 +6999,17 @@
           "points": -1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 1,
           "points": -1
         },
         {
@@ -7082,17 +7096,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
           "points": 1
         },
         {
@@ -7179,17 +7193,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 3,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 4,
           "points": 1
         },
         {
@@ -7276,18 +7290,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -7366,17 +7380,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 3,
+          "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
           "points": -1
         },
         {
@@ -7456,18 +7470,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -7553,18 +7567,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -7650,16 +7664,16 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
           "pa": 0,
           "points": 1
         },
@@ -7740,18 +7754,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 3,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -7837,17 +7851,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 0
         },
         {
@@ -7934,17 +7948,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 4,
           "points": 1
         },
         {
@@ -8031,18 +8045,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 101254951,
@@ -8128,17 +8142,17 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 4,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 3,
           "points": 1
         },
         {
@@ -8232,18 +8246,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -8329,17 +8343,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 3,
           "points": 0
         },
         {
@@ -8426,15 +8440,15 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 0,
           "points": 1
@@ -8523,17 +8537,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 3,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 4,
           "points": 1
         },
         {
@@ -8620,18 +8634,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 142503209,
@@ -8717,15 +8731,15 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 2,
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 1382936284,
+          "name": "Artur A",
           "ph": 1,
           "pa": 2,
           "points": 2
@@ -8814,18 +8828,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 142503209,
@@ -8911,17 +8925,17 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 3,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
           "points": 0
         },
         {
@@ -9008,17 +9022,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
           "points": 0
         },
         {
@@ -9098,18 +9112,18 @@
           "points": 3
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 3,
+          "points": -1
         },
         {
           "telegram_id": 142503209,
@@ -9188,18 +9202,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 4,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 4,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -9285,18 +9299,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 142503209,
@@ -9382,18 +9396,18 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 142503209,
@@ -9479,17 +9493,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 3,
           "points": 0
         },
         {
@@ -9576,17 +9590,17 @@
           "points": 2
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -9673,17 +9687,17 @@
           "points": 1
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 0,
           "points": 1
         },
         {
@@ -9770,18 +9784,18 @@
           "points": 0
         },
         {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 1,
-          "pa": 2,
-          "points": -1
-        },
-        {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 2,
+          "points": -1
         },
         {
           "telegram_id": 142503209,
@@ -9809,90 +9823,90 @@
       "kickoff_utc": "2026-07-03T03:00:00+00:00",
       "kickoff_msk": "3 июл 06:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 2,
         "away": 0
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 1,
           "pa": 0,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
-          "points": null
-        },
-        {
-          "telegram_id": 1382936284,
-          "name": "Artur A",
-          "ph": 2,
-          "pa": 3,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
-          "points": null
+          "points": 1
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 2,
+          "pa": 3,
+          "points": -1
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
           "pa": 0,
-          "points": null
+          "points": 1
         }
       ],
       "bets_count": 11
@@ -10203,18 +10217,18 @@
     }
   ],
   "totals": {
-    "195828871": 88,
-    "226981762": 80,
+    "195828871": 89,
+    "226981762": 81,
     "384182411": 77,
-    "285818716": 72,
-    "115820189": 71,
-    "159916305": 67,
-    "213115416": 65,
-    "1382936284": 64,
-    "329891536": 64,
+    "285818716": 73,
+    "115820189": 72,
+    "159916305": 70,
+    "213115416": 68,
+    "329891536": 65,
+    "1382936284": 63,
     "142503209": 39,
     "101254951": 38,
-    "362589424": 37
+    "362589424": 38
   },
   "source": {
     "name": "API-Football",
