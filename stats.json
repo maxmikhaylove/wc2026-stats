@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-04T06:32:36.575810+00:00",
-  "updated_msk": "4 июл 09:32",
+  "updated_utc": "2026-07-04T07:05:04.371856+00:00",
+  "updated_msk": "4 июл 10:05",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -53,8 +53,8 @@
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 65,
-      "rank": 9
+      "total": 68,
+      "rank": 8
     },
     {
       "telegram_id": 362589424,
@@ -1106,11 +1106,11 @@
           64,
           64,
           65,
-          65,
-          65,
-          65
+          66,
+          67,
+          68
         ],
-        "total": 65
+        "total": 68
       },
       {
         "name": "Marach",
@@ -10020,6 +10020,13 @@
           "points": 1
         },
         {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 1
+        },
+        {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 0,
@@ -10034,7 +10041,7 @@
           "points": -1
         }
       ],
-      "bets_count": 9
+      "bets_count": 10
     },
     {
       "match_no": 87,
@@ -10110,6 +10117,13 @@
           "points": 1
         },
         {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 3,
+          "pa": 0,
+          "points": 1
+        },
+        {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
@@ -10124,7 +10138,7 @@
           "points": 1
         }
       ],
-      "bets_count": 10
+      "bets_count": 11
     },
     {
       "match_no": 88,
@@ -10193,6 +10207,13 @@
           "points": 3
         },
         {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
+        },
+        {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
@@ -10200,7 +10221,7 @@
           "points": 0
         }
       ],
-      "bets_count": 8
+      "bets_count": 9
     },
     {
       "match_no": 89,
@@ -10468,7 +10489,7 @@
     "213115416": 72,
     "159916305": 71,
     "1382936284": 68,
-    "329891536": 65,
+    "329891536": 68,
     "362589424": 40,
     "142503209": 39,
     "101254951": 38
