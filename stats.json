@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-04T16:32:36.579059+00:00",
-  "updated_msk": "4 июл 19:32",
+  "updated_utc": "2026-07-04T17:01:37.042211+00:00",
+  "updated_msk": "4 июл 20:01",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -10231,13 +10231,84 @@
       "away": "Morocco",
       "kickoff_utc": "2026-07-04T17:00:00+00:00",
       "kickoff_msk": "4 июл 20:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
-      "bets_count": 9
+      "bets": [
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 0,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 1,
+          "pa": 3,
+          "points": null
+        },
+        {
+          "telegram_id": 115820189,
+          "name": "Саша Березин",
+          "ph": 0,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 1,
+          "pa": 4,
+          "points": null
+        }
+      ],
+      "bets_count": 10
     },
     {
       "match_no": 90,
@@ -10291,8 +10362,8 @@
       "match_no": 93,
       "stage": "1/8",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Portugal",
+      "away": "Spain",
       "kickoff_utc": "2026-07-06T19:00:00+00:00",
       "kickoff_msk": "6 июл 22:00",
       "started": false,
@@ -10323,8 +10394,8 @@
       "match_no": 95,
       "stage": "1/8",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Argentina",
+      "away": "Egypt",
       "kickoff_utc": "2026-07-07T16:00:00+00:00",
       "kickoff_msk": "7 июл 19:00",
       "started": false,
@@ -10339,8 +10410,8 @@
       "match_no": 96,
       "stage": "1/8",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Switzerland",
+      "away": "Colombia",
       "kickoff_utc": "2026-07-07T20:00:00+00:00",
       "kickoff_msk": "7 июл 23:00",
       "started": false,
