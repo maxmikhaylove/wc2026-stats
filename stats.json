@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-05T23:32:36.579102+00:00",
-  "updated_msk": "6 июл 02:32",
+  "updated_utc": "2026-07-06T00:01:37.073785+00:00",
+  "updated_msk": "6 июл 03:01",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -10548,13 +10548,13 @@
       "group": null,
       "home": "Mexico",
       "away": "England",
-      "kickoff_utc": "2026-07-06T00:00:00+00:00",
-      "kickoff_msk": "6 июл 03:00",
+      "kickoff_utc": "2026-07-06T01:00:00+00:00",
+      "kickoff_msk": "6 июл 04:00",
       "started": false,
       "finished": false,
       "revealed": false,
       "score": null,
-      "status": "TIMED",
+      "status": "2026-07-06 01:00:00Z",
       "bets": [],
       "bets_count": 10
     },
