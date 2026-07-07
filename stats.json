@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-07-07T02:01:36.990337+00:00",
-  "updated_msk": "7 июл 05:01",
+  "updated_utc": "2026-07-07T02:11:36.970735+00:00",
+  "updated_msk": "7 июл 05:11",
   "participants": [
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 98,
+      "total": 97,
       "rank": 1
     },
     {
@@ -17,7 +17,7 @@
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 82,
+      "total": 83,
       "rank": 3
     },
     {
@@ -29,8 +29,8 @@
     {
       "telegram_id": 115820189,
       "name": "Саша Березин",
-      "total": 78,
-      "rank": 4
+      "total": 77,
+      "rank": 5
     },
     {
       "telegram_id": 285818716,
@@ -47,7 +47,7 @@
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
-      "total": 70,
+      "total": 71,
       "rank": 8
     },
     {
@@ -59,13 +59,13 @@
     {
       "telegram_id": 142503209,
       "name": "Наиль Гайнуллов",
-      "total": 43,
+      "total": 42,
       "rank": 10
     },
     {
       "telegram_id": 362589424,
       "name": "Marach",
-      "total": 42,
+      "total": 41,
       "rank": 11
     },
     {
@@ -169,7 +169,8 @@
       "№90",
       "№91",
       "№92",
-      "№93"
+      "№93",
+      "№94"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -264,7 +265,8 @@
       "Paraguay–France 0:1",
       "Brazil–Norway 1:2",
       "Mexico–England 2:3",
-      "Portugal–Spain 0:1"
+      "Portugal–Spain 0:1",
+      "United States–Belgium 1:4"
     ],
     "series": [
       {
@@ -363,9 +365,10 @@
           94,
           93,
           95,
-          98
+          98,
+          97
         ],
-        "total": 98
+        "total": 97
       },
       {
         "name": "Оля Кепински",
@@ -462,6 +465,7 @@
           87,
           88,
           88,
+          90,
           90,
           90
         ],
@@ -563,9 +567,10 @@
           79,
           78,
           80,
-          82
+          82,
+          83
         ],
-        "total": 82
+        "total": 83
       },
       {
         "name": "Антон Борисенко",
@@ -663,6 +668,7 @@
           75,
           74,
           77,
+          78,
           78
         ],
         "total": 78
@@ -763,9 +769,10 @@
           75,
           75,
           75,
-          78
+          78,
+          77
         ],
-        "total": 78
+        "total": 77
       },
       {
         "name": "Алексей",
@@ -863,6 +870,7 @@
           77,
           76,
           75,
+          74,
           74
         ],
         "total": 74
@@ -963,6 +971,7 @@
           70,
           70,
           70,
+          72,
           72
         ],
         "total": 72
@@ -1063,9 +1072,10 @@
           70,
           69,
           69,
-          70
+          70,
+          71
         ],
-        "total": 70
+        "total": 71
       },
       {
         "name": "Artur A",
@@ -1161,6 +1171,7 @@
           64,
           64,
           65,
+          64,
           64,
           64,
           64
@@ -1263,9 +1274,10 @@
           41,
           43,
           42,
-          43
+          43,
+          42
         ],
-        "total": 43
+        "total": 42
       },
       {
         "name": "Marach",
@@ -1363,9 +1375,10 @@
           41,
           41,
           41,
-          42
+          42,
+          41
         ],
-        "total": 42
+        "total": 41
       },
       {
         "name": "Dmitriy S",
@@ -1443,6 +1456,7 @@
           36,
           35,
           36,
+          38,
           38,
           38,
           38,
@@ -10766,90 +10780,90 @@
       "kickoff_utc": "2026-07-07T00:00:00+00:00",
       "kickoff_msk": "7 июл 03:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 1,
-        "away": 3
+        "away": 4
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 1,
           "pa": 2,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 159916305,
           "name": "Антон Борисенко",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 115820189,
           "name": "Саша Березин",
           "ph": 2,
           "pa": 0,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 329891536,
           "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": -1
         },
         {
           "telegram_id": 362589424,
           "name": "Marach",
           "ph": 3,
           "pa": 1,
-          "points": null
+          "points": -1
         }
       ],
       "bets_count": 11
@@ -11016,17 +11030,17 @@
     }
   ],
   "totals": {
-    "195828871": 98,
+    "195828871": 97,
     "226981762": 90,
-    "384182411": 82,
+    "384182411": 83,
     "159916305": 78,
-    "115820189": 78,
+    "115820189": 77,
     "285818716": 74,
     "213115416": 72,
-    "329891536": 70,
+    "329891536": 71,
     "1382936284": 64,
-    "142503209": 43,
-    "362589424": 42,
+    "142503209": 42,
+    "362589424": 41,
     "101254951": 38
   },
   "source": {
