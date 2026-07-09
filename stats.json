@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-09T00:32:36.579693+00:00",
-  "updated_msk": "9 июл 03:32",
+  "updated_utc": "2026-07-09T01:30:00.481978+00:00",
+  "updated_msk": "9 июл 04:30",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11142,8 +11142,8 @@
       "match_no": 100,
       "stage": "1/4",
       "group": null,
-      "home": "TBD",
-      "away": "TBD",
+      "home": "Argentina",
+      "away": "Switzerland",
       "kickoff_utc": "2026-07-12T01:00:00+00:00",
       "kickoff_msk": "12 июл 04:00",
       "started": false,
