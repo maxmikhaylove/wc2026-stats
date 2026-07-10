@@ -1,11 +1,11 @@
 {
-  "updated_utc": "2026-07-10T21:01:52.523292+00:00",
-  "updated_msk": "11 июл 00:01",
+  "updated_utc": "2026-07-10T21:11:52.449878+00:00",
+  "updated_msk": "11 июл 00:11",
   "participants": [
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "total": 99,
+      "total": 101,
       "rank": 1
     },
     {
@@ -17,7 +17,7 @@
     {
       "telegram_id": 384182411,
       "name": "Николай Толли",
-      "total": 88,
+      "total": 91,
       "rank": 3
     },
     {
@@ -35,19 +35,19 @@
     {
       "telegram_id": 285818716,
       "name": "Алексей",
-      "total": 76,
+      "total": 77,
+      "rank": 6
+    },
+    {
+      "telegram_id": 213115416,
+      "name": "Фил Чирков",
+      "total": 77,
       "rank": 6
     },
     {
       "telegram_id": 329891536,
       "name": "Max Mikhaylov",
       "total": 75,
-      "rank": 7
-    },
-    {
-      "telegram_id": 213115416,
-      "name": "Фил Чирков",
-      "total": 74,
       "rank": 8
     },
     {
@@ -173,7 +173,8 @@
       "№94",
       "№95",
       "№96",
-      "№97"
+      "№97",
+      "№98"
     ],
     "labels_full": [
       "Mexico–South Africa 2:0",
@@ -272,7 +273,8 @@
       "United States–Belgium 1:4",
       "Argentina–Egypt 3:2",
       "Switzerland–Colombia 0:0",
-      "France–Morocco 2:0"
+      "France–Morocco 2:0",
+      "Spain–Belgium 2:1"
     ],
     "series": [
       {
@@ -375,9 +377,10 @@
           97,
           98,
           98,
-          99
+          99,
+          101
         ],
-        "total": 99
+        "total": 101
       },
       {
         "name": "Оля Кепински",
@@ -479,6 +482,7 @@
           90,
           91,
           91,
+          92,
           92
         ],
         "total": 92
@@ -583,9 +587,10 @@
           83,
           85,
           86,
-          88
+          88,
+          91
         ],
-        "total": 88
+        "total": 91
       },
       {
         "name": "Антон Борисенко",
@@ -687,6 +692,7 @@
           78,
           79,
           80,
+          81,
           81
         ],
         "total": 81
@@ -790,6 +796,7 @@
           78,
           77,
           78,
+          79,
           79,
           79
         ],
@@ -895,117 +902,14 @@
           74,
           75,
           75,
-          76
+          76,
+          77
         ],
-        "total": 76
-      },
-      {
-        "name": "Max Mikhaylov",
-        "color": "#FF2D55",
-        "cumulative": [
-          1,
-          1,
-          4,
-          5,
-          5,
-          5,
-          6,
-          5,
-          6,
-          6,
-          5,
-          6,
-          6,
-          6,
-          6,
-          6,
-          8,
-          9,
-          10,
-          11,
-          11,
-          11,
-          11,
-          13,
-          13,
-          13,
-          14,
-          15,
-          15,
-          18,
-          21,
-          20,
-          20,
-          21,
-          21,
-          22,
-          23,
-          23,
-          23,
-          25,
-          26,
-          29,
-          31,
-          33,
-          34,
-          34,
-          37,
-          40,
-          40,
-          41,
-          43,
-          46,
-          47,
-          46,
-          45,
-          46,
-          47,
-          50,
-          49,
-          49,
-          49,
-          50,
-          49,
-          49,
-          50,
-          50,
-          51,
-          51,
-          51,
-          52,
-          53,
-          53,
-          55,
-          57,
-          57,
-          57,
-          59,
-          60,
-          61,
-          62,
-          62,
-          63,
-          64,
-          64,
-          65,
-          65,
-          65,
-          68,
-          69,
-          70,
-          69,
-          69,
-          70,
-          71,
-          72,
-          72,
-          75
-        ],
-        "total": 75
+        "total": 77
       },
       {
         "name": "Фил Чирков",
-        "color": "#5856D6",
+        "color": "#FF2D55",
         "cumulative": [
           3,
           3,
@@ -1103,9 +1007,115 @@
           72,
           73,
           74,
-          74
+          74,
+          77
         ],
-        "total": 74
+        "total": 77
+      },
+      {
+        "name": "Max Mikhaylov",
+        "color": "#5856D6",
+        "cumulative": [
+          1,
+          1,
+          4,
+          5,
+          5,
+          5,
+          6,
+          5,
+          6,
+          6,
+          5,
+          6,
+          6,
+          6,
+          6,
+          6,
+          8,
+          9,
+          10,
+          11,
+          11,
+          11,
+          11,
+          13,
+          13,
+          13,
+          14,
+          15,
+          15,
+          18,
+          21,
+          20,
+          20,
+          21,
+          21,
+          22,
+          23,
+          23,
+          23,
+          25,
+          26,
+          29,
+          31,
+          33,
+          34,
+          34,
+          37,
+          40,
+          40,
+          41,
+          43,
+          46,
+          47,
+          46,
+          45,
+          46,
+          47,
+          50,
+          49,
+          49,
+          49,
+          50,
+          49,
+          49,
+          50,
+          50,
+          51,
+          51,
+          51,
+          52,
+          53,
+          53,
+          55,
+          57,
+          57,
+          57,
+          59,
+          60,
+          61,
+          62,
+          62,
+          63,
+          64,
+          64,
+          65,
+          65,
+          65,
+          68,
+          69,
+          70,
+          69,
+          69,
+          70,
+          71,
+          72,
+          72,
+          75,
+          75
+        ],
+        "total": 75
       },
       {
         "name": "Artur A",
@@ -1207,6 +1217,7 @@
           64,
           66,
           67,
+          70,
           70
         ],
         "total": 70
@@ -1311,6 +1322,7 @@
           42,
           43,
           44,
+          44,
           44
         ],
         "total": 44
@@ -1413,6 +1425,7 @@
           41,
           42,
           41,
+          42,
           42,
           42,
           42
@@ -1519,6 +1532,7 @@
           38,
           38,
           38,
+          38,
           38
         ],
         "total": 38
@@ -1586,18 +1600,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -1690,15 +1704,15 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -1794,18 +1808,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -1898,17 +1912,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
           "points": 1
         },
         {
@@ -2002,16 +2016,16 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 1,
           "pa": 2,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 1,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
           "pa": 2,
           "points": 0
         },
@@ -2106,17 +2120,17 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -2210,15 +2224,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -2314,17 +2328,17 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
           "points": -1
         },
         {
@@ -2418,15 +2432,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 4,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 4,
           "pa": 0,
           "points": 1
@@ -2522,17 +2536,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
           "points": 0
         },
         {
@@ -2626,18 +2640,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
@@ -2730,15 +2744,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 1
@@ -2834,15 +2848,15 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 4,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 4,
           "pa": 0,
           "points": 0
@@ -2938,17 +2952,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -3035,17 +3049,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 2,
           "points": 0
         },
         {
@@ -3139,15 +3153,15 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -3243,18 +3257,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -3347,15 +3361,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -3451,15 +3465,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
@@ -3555,18 +3569,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -3659,17 +3673,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 3,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 3,
+          "pa": 0,
           "points": 0
         },
         {
@@ -3763,17 +3777,17 @@
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
           "points": 0
         },
         {
@@ -3867,15 +3881,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -3971,18 +3985,18 @@
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 2,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 2,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -4068,17 +4082,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
           "points": 0
         },
         {
@@ -4172,18 +4186,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 1,
           "points": -1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -4276,17 +4290,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
+          "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
           "points": 1
         },
         {
@@ -4380,18 +4394,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -4484,18 +4498,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -4581,18 +4595,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -4685,15 +4699,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 3
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 3,
           "pa": 0,
           "points": 3
@@ -4789,18 +4803,18 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
@@ -4893,18 +4907,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -4997,15 +5011,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 3,
           "pa": 0,
           "points": 1
@@ -5101,17 +5115,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
           "points": 0
         },
         {
@@ -5205,15 +5219,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -5406,15 +5420,15 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -5510,15 +5524,15 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 0
@@ -5614,15 +5628,15 @@
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 2
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 2
@@ -5711,18 +5725,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -5815,15 +5829,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 3,
           "pa": 0,
           "points": 3
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 3,
           "pa": 0,
           "points": 3
@@ -5919,18 +5933,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -6023,18 +6037,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -6127,16 +6141,16 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 2,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
           "pa": 0,
           "points": 1
         },
@@ -6231,16 +6245,16 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 3,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
           "pa": 0,
           "points": 0
         },
@@ -6335,18 +6349,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -6439,18 +6453,18 @@
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -6543,17 +6557,17 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 0,
           "points": 0
         },
         {
@@ -6640,15 +6654,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 0,
           "points": 1
@@ -6744,15 +6758,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 2
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 2
@@ -6848,18 +6862,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 3,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 3,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 3,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -6952,17 +6966,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
           "points": 1
         },
         {
@@ -7056,17 +7070,17 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
+          "points": -1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
           "points": -1
         },
         {
@@ -7160,15 +7174,15 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": -1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": -1
@@ -7257,18 +7271,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -7354,15 +7368,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 3,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 3,
           "points": 1
@@ -7451,18 +7465,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -7541,18 +7555,18 @@
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 3,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 3,
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
@@ -7631,15 +7645,15 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 0
@@ -7728,15 +7742,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -7825,17 +7839,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
           "points": 1
         },
         {
@@ -7915,18 +7929,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
@@ -8012,17 +8026,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
           "points": 0
         },
         {
@@ -8109,15 +8123,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -8206,18 +8220,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -8303,18 +8317,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 4,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 4,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -8407,17 +8421,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
           "points": 0
         },
         {
@@ -8504,15 +8518,15 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 2,
           "points": 0
@@ -8601,18 +8615,18 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -8698,17 +8712,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 3,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 4,
+          "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 3,
           "points": 1
         },
         {
@@ -8795,18 +8809,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 2,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 0,
           "pa": 0,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 2,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -8892,18 +8906,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 2,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 3,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 2,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -8989,18 +9003,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -9086,16 +9100,16 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 2,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
           "pa": 0,
           "points": 0
         },
@@ -9183,18 +9197,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -9273,18 +9287,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 2
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
           "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 2
         },
         {
           "telegram_id": 1382936284,
@@ -9363,15 +9377,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
@@ -9460,15 +9474,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -9557,15 +9571,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 0,
           "points": 1
@@ -9654,18 +9668,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -9751,18 +9765,18 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -9848,15 +9862,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 2,
           "pa": 1,
           "points": 1
@@ -9945,15 +9959,15 @@
           "points": 3
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -10042,18 +10056,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 0,
           "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -10132,17 +10146,17 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 2,
+          "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
           "points": 0
         },
         {
@@ -10229,16 +10243,16 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 3,
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 4,
           "pa": 0,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
-          "ph": 4,
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 3,
           "pa": 0,
           "points": 0
         },
@@ -10319,18 +10333,18 @@
           "points": 2
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -10409,18 +10423,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -10499,15 +10513,15 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 0,
           "pa": 2,
           "points": 1
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 0,
           "pa": 2,
           "points": 1
@@ -10596,18 +10610,18 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 1,
-          "points": -1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 2,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 1,
+          "points": -1
         },
         {
           "telegram_id": 1382936284,
@@ -10686,15 +10700,15 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
         },
         {
-          "telegram_id": 213115416,
-          "name": "Фил Чирков",
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
           "ph": 1,
           "pa": 1,
           "points": 0
@@ -10776,18 +10790,18 @@
           "points": -1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 2,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 3,
           "points": 2
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 2,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -10873,18 +10887,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 0,
-          "pa": 1,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 0,
+          "pa": 1,
+          "points": 1
         },
         {
           "telegram_id": 1382936284,
@@ -10970,17 +10984,17 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 4,
-          "pa": 0,
-          "points": 1
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 3,
           "pa": 1,
+          "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 4,
+          "pa": 0,
           "points": 1
         },
         {
@@ -11067,18 +11081,18 @@
           "points": 0
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 3,
-          "points": 0
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 1
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 3,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
@@ -11157,18 +11171,18 @@
           "points": 1
         },
         {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 2,
-          "pa": 0,
-          "points": 3
-        },
-        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
           "pa": 1,
           "points": 0
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
+          "points": 3
         },
         {
           "telegram_id": 1382936284,
@@ -11196,69 +11210,69 @@
       "kickoff_utc": "2026-07-10T19:00:00+00:00",
       "kickoff_msk": "10 июл 22:00",
       "started": true,
-      "finished": false,
+      "finished": true,
       "revealed": true,
       "score": {
         "home": 2,
         "away": 1
       },
-      "status": "IN_PLAY",
+      "status": "FINISHED",
       "bets": [
         {
           "telegram_id": 195828871,
           "name": "Паша Федоров",
           "ph": 1,
           "pa": 0,
-          "points": null
+          "points": 2
         },
         {
           "telegram_id": 226981762,
           "name": "Оля Кепински",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 384182411,
           "name": "Николай Толли",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 3
         },
         {
           "telegram_id": 285818716,
           "name": "Алексей",
           "ph": 4,
           "pa": 0,
-          "points": null
-        },
-        {
-          "telegram_id": 329891536,
-          "name": "Max Mikhaylov",
-          "ph": 1,
-          "pa": 1,
-          "points": null
+          "points": 1
         },
         {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 2,
           "pa": 1,
-          "points": null
+          "points": 3
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": 0
         },
         {
           "telegram_id": 1382936284,
           "name": "Artur A",
           "ph": 1,
           "pa": 1,
-          "points": null
+          "points": 0
         },
         {
           "telegram_id": 142503209,
           "name": "Наиль Гайнуллов",
           "ph": 2,
           "pa": 2,
-          "points": null
+          "points": 0
         }
       ],
       "bets_count": 8
@@ -11361,14 +11375,14 @@
     }
   ],
   "totals": {
-    "195828871": 99,
+    "195828871": 101,
     "226981762": 92,
-    "384182411": 88,
+    "384182411": 91,
     "159916305": 81,
     "115820189": 79,
-    "285818716": 76,
+    "285818716": 77,
+    "213115416": 77,
     "329891536": 75,
-    "213115416": 74,
     "1382936284": 70,
     "142503209": 44,
     "362589424": 42,
