@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-10T18:22:51.992406+00:00",
-  "updated_msk": "10 июл 21:22",
+  "updated_utc": "2026-07-10T19:01:52.455176+00:00",
+  "updated_msk": "10 июл 22:01",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11195,12 +11195,69 @@
       "away": "Belgium",
       "kickoff_utc": "2026-07-10T19:00:00+00:00",
       "kickoff_msk": "10 июл 22:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
+      "bets": [
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 4,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        }
+      ],
       "bets_count": 8
     },
     {
@@ -11239,7 +11296,7 @@
       "match_no": 101,
       "stage": "1/2",
       "group": null,
-      "home": "TBD",
+      "home": "France",
       "away": "TBD",
       "kickoff_utc": "2026-07-14T19:00:00+00:00",
       "kickoff_msk": "14 июл 22:00",
