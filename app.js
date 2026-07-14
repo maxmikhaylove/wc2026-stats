@@ -38,6 +38,25 @@
     return wrap;
   }
 
+  function renderDaysFirst(data) {
+    const rows = data.days_first || [];
+    if (!rows.length) return null;
+    const wrap = el("div");
+    wrap.appendChild(el("h2", "group-title", "👑 Дней на 1-м месте"));
+    const board = el("div", "board glass");
+    rows.forEach((r, i) => {
+      const medal = i === 0 ? "🥇" : i === 1 ? "🥈" : i === 2 ? "🥉" : i + 1;
+      const row = el("div", `lrow ${i === 0 ? "top1" : ""}`);
+      row.innerHTML =
+        `<div class="rank">${medal}</div>` +
+        `<div class="who">${esc(r.name)}</div>` +
+        `<div class="pts">${r.days}</div>`;
+      board.appendChild(row);
+    });
+    wrap.appendChild(board);
+    return wrap;
+  }
+
   function matchCard(m) {
     const card = el("article", "match glass");
 
@@ -187,6 +206,7 @@
       const a = $("#src"); a.href = data.source.url; a.textContent = data.source.name || "API-Football";
     }
     const t = $("#tab-table"); t.innerHTML = ""; t.appendChild(renderTable(data));
+    const df = renderDaysFirst(data); if (df) t.appendChild(df);
     const mt = $("#tab-matches"); mt.innerHTML = ""; mt.appendChild(renderMatches(data));
     const r = $("#tab-rules"); r.innerHTML = ""; r.appendChild(renderRules());
     renderGraph(data.progression);

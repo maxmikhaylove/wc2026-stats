@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-14T16:22:51.989330+00:00",
-  "updated_msk": "14 июл 19:22",
+  "updated_utc": "2026-07-14T16:27:00.305284+00:00",
+  "updated_msk": "14 июл 19:27",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -1567,6 +1567,28 @@
       }
     ]
   },
+  "days_first": [
+    {
+      "telegram_id": 226981762,
+      "name": "Оля Кепински",
+      "days": 19
+    },
+    {
+      "telegram_id": 195828871,
+      "name": "Паша Федоров",
+      "days": 18
+    },
+    {
+      "telegram_id": 142503209,
+      "name": "Наиль Гайнуллов",
+      "days": 1
+    },
+    {
+      "telegram_id": 213115416,
+      "name": "Фил Чирков",
+      "days": 1
+    }
+  ],
   "matches": [
     {
       "match_no": 1,
