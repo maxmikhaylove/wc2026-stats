@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-14T18:28:54.760216+00:00",
-  "updated_msk": "14 июл 21:28",
+  "updated_utc": "2026-07-14T19:07:55.260262+00:00",
+  "updated_msk": "14 июл 22:07",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11487,12 +11487,86 @@
       "away": "Spain",
       "kickoff_utc": "2026-07-14T19:00:00+00:00",
       "kickoff_msk": "14 июл 22:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
-      "score": null,
-      "status": "TIMED",
-      "bets": [],
+      "revealed": true,
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "IN_PLAY",
+      "bets": [
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 3,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 285818716,
+          "name": "Алексей",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 362589424,
+          "name": "Marach",
+          "ph": 3,
+          "pa": 2,
+          "points": null
+        }
+      ],
       "bets_count": 10
     },
     {
