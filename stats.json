@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-17T00:36:11.742752+00:00",
-  "updated_msk": "17 июл 03:36",
+  "updated_utc": "2026-07-17T01:30:02.250925+00:00",
+  "updated_msk": "17 июл 04:30",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11678,7 +11678,7 @@
       "stage": "За 3-е",
       "group": null,
       "home": "France",
-      "away": "TBD",
+      "away": "England",
       "kickoff_utc": "2026-07-18T21:00:00+00:00",
       "kickoff_msk": "19 июл 00:00",
       "started": false,
@@ -11694,7 +11694,7 @@
       "stage": "Финал",
       "group": null,
       "home": "Spain",
-      "away": "TBD",
+      "away": "Argentina",
       "kickoff_utc": "2026-07-19T19:00:00+00:00",
       "kickoff_msk": "19 июл 22:00",
       "started": false,
