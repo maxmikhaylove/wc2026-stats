@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-17T11:36:11.741405+00:00",
-  "updated_msk": "17 июл 14:36",
+  "updated_utc": "2026-07-17T12:27:31.235582+00:00",
+  "updated_msk": "17 июл 15:27",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11636,6 +11636,13 @@
           "points": 0
         },
         {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 2,
+          "pa": 2,
+          "points": 0
+        },
+        {
           "telegram_id": 213115416,
           "name": "Фил Чирков",
           "ph": 1,
@@ -11671,7 +11678,7 @@
           "points": 0
         }
       ],
-      "bets_count": 8
+      "bets_count": 9
     },
     {
       "match_no": 103,
