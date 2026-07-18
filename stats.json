@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-18T20:36:11.742403+00:00",
-  "updated_msk": "18 июл 23:36",
+  "updated_utc": "2026-07-18T21:05:12.297421+00:00",
+  "updated_msk": "19 июл 00:05",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -1599,7 +1599,7 @@
     {
       "telegram_id": 195828871,
       "name": "Паша Федоров",
-      "days": 22
+      "days": 23
     },
     {
       "telegram_id": 226981762,
@@ -11688,13 +11688,63 @@
       "away": "England",
       "kickoff_utc": "2026-07-18T21:00:00+00:00",
       "kickoff_msk": "19 июл 00:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
-      "bets_count": 6
+      "bets": [
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 2,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 2,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 3,
+          "pa": 1,
+          "points": null
+        }
+      ],
+      "bets_count": 7
     },
     {
       "match_no": 104,
