@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-19T19:55:12.183974+00:00",
-  "updated_msk": "19 июл 22:55",
+  "updated_utc": "2026-07-19T20:05:12.229047+00:00",
+  "updated_msk": "19 июл 23:05",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11774,8 +11774,11 @@
       "started": true,
       "finished": false,
       "revealed": true,
-      "score": null,
-      "status": "LIVE",
+      "score": {
+        "home": 0,
+        "away": 0
+      },
+      "status": "PAUSED",
       "bets": [
         {
           "telegram_id": 195828871,
