@@ -1,6 +1,6 @@
 {
-  "updated_utc": "2026-07-19T18:36:11.743843+00:00",
-  "updated_msk": "19 июл 21:36",
+  "updated_utc": "2026-07-19T19:05:12.333244+00:00",
+  "updated_msk": "19 июл 22:05",
   "participants": [
     {
       "telegram_id": 195828871,
@@ -11771,13 +11771,70 @@
       "away": "Argentina",
       "kickoff_utc": "2026-07-19T19:00:00+00:00",
       "kickoff_msk": "19 июл 22:00",
-      "started": false,
+      "started": true,
       "finished": false,
-      "revealed": false,
+      "revealed": true,
       "score": null,
       "status": "TIMED",
-      "bets": [],
-      "bets_count": 7
+      "bets": [
+        {
+          "telegram_id": 195828871,
+          "name": "Паша Федоров",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 226981762,
+          "name": "Оля Кепински",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 384182411,
+          "name": "Николай Толли",
+          "ph": 1,
+          "pa": 2,
+          "points": null
+        },
+        {
+          "telegram_id": 159916305,
+          "name": "Антон Борисенко",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 213115416,
+          "name": "Фил Чирков",
+          "ph": 1,
+          "pa": 1,
+          "points": null
+        },
+        {
+          "telegram_id": 329891536,
+          "name": "Max Mikhaylov",
+          "ph": 1,
+          "pa": 6,
+          "points": null
+        },
+        {
+          "telegram_id": 1382936284,
+          "name": "Artur A",
+          "ph": 0,
+          "pa": 0,
+          "points": null
+        },
+        {
+          "telegram_id": 142503209,
+          "name": "Наиль Гайнуллов",
+          "ph": 2,
+          "pa": 2,
+          "points": null
+        }
+      ],
+      "bets_count": 8
     }
   ],
   "totals": {
